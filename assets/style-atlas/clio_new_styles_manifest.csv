@@ -1,0 +1,1001 @@
+id,name,sheet,image,index,row,column,x,y,width,height
+new-01-001,French Pochoir Fashion Plate,1,clio_new_styles_sheet_01.png,0,0,0,0,0,300,300
+new-01-002,Hand-Tinted Magic Lantern Slide,1,clio_new_styles_sheet_01.png,1,0,1,300,0,300,300
+new-01-003,1960s Boutique Croquis,1,clio_new_styles_sheet_01.png,2,0,2,600,0,300,300
+new-01-004,1970s Educational Filmstrip,1,clio_new_styles_sheet_01.png,3,0,3,900,0,300,300
+new-01-005,Airport Paperback Cover Painting,1,clio_new_styles_sheet_01.png,4,0,4,1200,0,300,300
+new-01-006,Victorian Chromolithograph Keepsake,1,clio_new_styles_sheet_01.png,5,0,5,1500,0,300,300
+new-01-007,Neo-Medieval Marginalia,1,clio_new_styles_sheet_01.png,6,0,6,1800,0,300,300
+new-01-008,Cold-War Science Annual,1,clio_new_styles_sheet_01.png,7,0,7,2100,0,300,300
+new-01-009,Belle Époque Sheet-Music Cover,1,clio_new_styles_sheet_01.png,8,0,8,2400,0,300,300
+new-01-010,Edwardian Theatre Souvenir,1,clio_new_styles_sheet_01.png,9,0,9,2700,0,300,300
+new-01-011,Nordic Linocut Storybook,1,clio_new_styles_sheet_01.png,10,1,0,0,300,300,300
+new-01-012,Baltic Amber-Ink Illustration,1,clio_new_styles_sheet_01.png,11,1,1,300,300,300,300
+new-01-013,Carpathian Woodblock Fairytale,1,clio_new_styles_sheet_01.png,12,1,2,600,300,300,300
+new-01-014,Danube Secessionist Print,1,clio_new_styles_sheet_01.png,13,1,3,900,300,300,300
+new-01-015,Balkan Naive Fresco,1,clio_new_styles_sheet_01.png,14,1,4,1200,300,300,300
+new-01-016,Iberian Azulejo Narrative,1,clio_new_styles_sheet_01.png,15,1,5,1500,300,300,300
+new-01-017,Provencal Fabric-Print Illustration,1,clio_new_styles_sheet_01.png,16,1,6,1800,300,300,300
+new-01-018,Sicilian Cart-Painting Graphic,1,clio_new_styles_sheet_01.png,17,1,7,2100,300,300,300
+new-01-019,Alpine Sgraffito Folk Art,1,clio_new_styles_sheet_01.png,18,1,8,2400,300,300,300
+new-01-020,Flemish Lace-Shadow Drawing,1,clio_new_styles_sheet_01.png,19,1,9,2700,300,300,300
+new-01-021,Sahel Mudcloth Graphic Portrait,1,clio_new_styles_sheet_01.png,20,2,0,0,600,300,300
+new-01-022,Ethiopian Parchment Icon Graphic,1,clio_new_styles_sheet_01.png,21,2,1,300,600,300,300
+new-01-023,Swahili Kanga Border Illustration,1,clio_new_styles_sheet_01.png,22,2,2,600,600,300,300
+new-01-024,Coptic Textile-Inspired Portrait,1,clio_new_styles_sheet_01.png,23,2,3,900,600,300,300
+new-01-025,Maghrebi Painted-Wood Interior Art,1,clio_new_styles_sheet_01.png,24,2,4,1200,600,300,300
+new-01-026,Ndebele Geometric Editorial,1,clio_new_styles_sheet_01.png,25,2,5,1500,600,300,300
+new-01-027,Kuba Raffia Pattern Portrait,1,clio_new_styles_sheet_01.png,26,2,6,1800,600,300,300
+new-01-028,Tuareg Silver-Engraving Graphic,1,clio_new_styles_sheet_01.png,27,2,7,2100,600,300,300
+new-01-029,Senegalese Glass-Painting Poster,1,clio_new_styles_sheet_01.png,28,2,8,2400,600,300,300
+new-01-030,East African Sign-Painter Realism,1,clio_new_styles_sheet_01.png,29,2,9,2700,600,300,300
+new-01-031,Persian Qajar Lacquer Portrait,1,clio_new_styles_sheet_01.png,30,3,0,0,900,300,300
+new-01-032,Ottoman Shadow-Puppet Graphic,1,clio_new_styles_sheet_01.png,31,3,1,300,900,300,300
+new-01-033,Levantine Mother-of-Pearl Inlay Art,1,clio_new_styles_sheet_01.png,32,3,2,600,900,300,300
+new-01-034,Yemeni Stained-Glass Color Blocking,1,clio_new_styles_sheet_01.png,33,3,3,900,900,300,300
+new-01-035,Kashmiri Papier-Mache Miniature,1,clio_new_styles_sheet_01.png,34,3,4,1200,900,300,300
+new-01-036,Bidriware Silver-Inlay Portrait,1,clio_new_styles_sheet_01.png,35,3,5,1500,900,300,300
+new-01-037,Khatam Geometric Marquetry,1,clio_new_styles_sheet_01.png,36,3,6,1800,900,300,300
+new-01-038,Pichwai Textile-Theatre Painting,1,clio_new_styles_sheet_01.png,37,3,7,2100,900,300,300
+new-01-039,Rajasthani Phad Scroll Graphic,1,clio_new_styles_sheet_01.png,38,3,8,2400,900,300,300
+new-01-040,Deccani Album-Painting Modernism,1,clio_new_styles_sheet_01.png,39,3,9,2700,900,300,300
+new-01-041,Joseon Minhwa Pop Portrait,1,clio_new_styles_sheet_01.png,40,4,0,0,1200,300,300
+new-01-042,Korean Chaekgeori Room Portrait,1,clio_new_styles_sheet_01.png,41,4,1,300,1200,300,300
+new-01-043,Japanese Mingei Stencil Print,1,clio_new_styles_sheet_01.png,42,4,2,600,1200,300,300
+new-01-044,Ryukyu Bingata Dye Illustration,1,clio_new_styles_sheet_01.png,43,4,3,900,1200,300,300
+new-01-045,Ainu Attus Pattern Graphic,1,clio_new_styles_sheet_01.png,44,4,4,1200,1200,300,300
+new-01-046,Chinese New-Year Woodblock Modernism,1,clio_new_styles_sheet_01.png,45,4,5,1500,1200,300,300
+new-01-047,Shanghai Calendar-Girl Reimagining,1,clio_new_styles_sheet_01.png,46,4,6,1800,1200,300,300
+new-01-048,Vietnamese Dong Ho Pop Print,1,clio_new_styles_sheet_01.png,47,4,7,2100,1200,300,300
+new-01-049,Thai Temple-Mural Editorial,1,clio_new_styles_sheet_01.png,48,4,8,2400,1200,300,300
+new-01-050,Burmese Parabaik Manuscript Color,1,clio_new_styles_sheet_01.png,49,4,9,2700,1200,300,300
+new-01-051,Mexican Ex-Voto Domestic Scene,1,clio_new_styles_sheet_01.png,50,5,0,0,1500,300,300
+new-01-052,Andean Retablo Box-Painting Look,1,clio_new_styles_sheet_01.png,51,5,1,300,1500,300,300
+new-01-053,Peruvian Chicha Poster Portrait,1,clio_new_styles_sheet_01.png,52,5,2,600,1500,300,300
+new-01-054,Amazonian Kené Pattern Realism,1,clio_new_styles_sheet_01.png,53,5,3,900,1500,300,300
+new-01-055,Brazilian Cordel Woodcut Modernism,1,clio_new_styles_sheet_01.png,54,5,4,1200,1500,300,300
+new-01-056,Argentine Fileteado Portrait Frame,1,clio_new_styles_sheet_01.png,55,5,5,1500,1500,300,300
+new-01-057,Chilean Arpillera Textile Scene,1,clio_new_styles_sheet_01.png,56,5,6,1800,1500,300,300
+new-01-058,Caribbean Rum-Label Illustration,1,clio_new_styles_sheet_01.png,57,5,7,2100,1500,300,300
+new-01-059,Haitian Metal-Cutout Graphic,1,clio_new_styles_sheet_01.png,58,5,8,2400,1500,300,300
+new-01-060,Cuban Matchbox-Label Modernism,1,clio_new_styles_sheet_01.png,59,5,9,2700,1500,300,300
+new-01-061,Letterpress Specimen Without Type,1,clio_new_styles_sheet_01.png,60,6,0,0,1800,300,300
+new-01-062,Security-Guilloche Portrait,1,clio_new_styles_sheet_01.png,61,6,1,300,1800,300,300
+new-01-063,Microfilm Archive Aesthetic,1,clio_new_styles_sheet_01.png,62,6,2,600,1800,300,300
+new-01-064,Carbon-Copy Office Illustration,1,clio_new_styles_sheet_01.png,63,6,3,900,1800,300,300
+new-01-065,Fax-Thermal Ghost Image,1,clio_new_styles_sheet_01.png,64,6,4,1200,1800,300,300
+new-01-066,Photostat High-Contrast Graphic,1,clio_new_styles_sheet_01.png,65,6,5,1500,1800,300,300
+new-01-067,Blueprint-With-Gold Annotation,1,clio_new_styles_sheet_01.png,66,6,6,1800,1800,300,300
+new-01-068,Map-Lithography Portrait,1,clio_new_styles_sheet_01.png,67,6,7,2100,1800,300,300
+new-01-069,Postage-Stamp Intaglio Scene,1,clio_new_styles_sheet_01.png,68,6,8,2400,1800,300,300
+new-01-070,Library-Card Catalog Nostalgia,1,clio_new_styles_sheet_01.png,69,6,9,2700,1800,300,300
+new-01-071,Cut-Paper Theatre Silhouette,1,clio_new_styles_sheet_01.png,70,7,0,0,2100,300,300
+new-01-072,Torn-Tissue Collage Realism,1,clio_new_styles_sheet_01.png,71,7,1,300,2100,300,300
+new-01-073,Pressed-Flower Botanical Portrait,1,clio_new_styles_sheet_01.png,72,7,2,600,2100,300,300
+new-01-074,Marbled-Paper Ebru Figure,1,clio_new_styles_sheet_01.png,73,7,3,900,2100,300,300
+new-01-075,Shellac-and-Sawdust Relief,1,clio_new_styles_sheet_01.png,74,7,4,1200,2100,300,300
+new-01-076,Eggshell-Mosaic Portrait,1,clio_new_styles_sheet_01.png,75,7,5,1500,2100,300,300
+new-01-077,Cork-Inlay Illustration,1,clio_new_styles_sheet_01.png,76,7,6,1800,2100,300,300
+new-01-078,Tin-Foil Repousse Graphic,1,clio_new_styles_sheet_01.png,77,7,7,2100,2100,300,300
+new-01-079,Milk-Glass Cameo Portrait,1,clio_new_styles_sheet_01.png,78,7,8,2400,2100,300,300
+new-01-080,Sandblasted-Mirror Illustration,1,clio_new_styles_sheet_01.png,79,7,9,2700,2100,300,300
+new-01-081,Soft-Airbrush Catalog Dream,1,clio_new_styles_sheet_01.png,80,8,0,0,2400,300,300
+new-01-082,1980s Mall-Portrait Fantasy,1,clio_new_styles_sheet_01.png,81,8,1,300,2400,300,300
+new-01-083,1990s CD-Booklet Editorial,1,clio_new_styles_sheet_01.png,82,8,2,600,2400,300,300
+new-01-084,Y2K Stationery Mascot Realism,1,clio_new_styles_sheet_01.png,83,8,3,900,2400,300,300
+new-01-085,Early-Web Dollmaker Aesthetic,1,clio_new_styles_sheet_01.png,84,8,4,1200,2400,300,300
+new-01-086,Desktop-Publishing Clipart Deluxe,1,clio_new_styles_sheet_01.png,85,8,5,1500,2400,300,300
+new-01-087,VHS Karaoke Backdrop Art,1,clio_new_styles_sheet_01.png,86,8,6,1800,2400,300,300
+new-01-088,Public-Access TV Title-Card Look,1,clio_new_styles_sheet_01.png,87,8,7,2100,2400,300,300
+new-01-089,Video-Store Box-Art Painting,1,clio_new_styles_sheet_01.png,88,8,8,2400,2400,300,300
+new-01-090,Laserdisc Jacket Editorial,1,clio_new_styles_sheet_01.png,89,8,9,2700,2400,300,300
+new-01-091,Architectural Competition Collage,1,clio_new_styles_sheet_01.png,90,9,0,0,2700,300,300
+new-01-092,Museum-Diorama Photography,1,clio_new_styles_sheet_01.png,91,9,1,300,2700,300,300
+new-01-093,Miniature-Theatre Set Portrait,1,clio_new_styles_sheet_01.png,92,9,2,600,2700,300,300
+new-01-094,Retail-Window Display Surrealism,1,clio_new_styles_sheet_01.png,93,9,3,900,2700,300,300
+new-01-095,Cosmetic-Counter Lightbox Art,1,clio_new_styles_sheet_01.png,94,9,4,1200,2700,300,300
+new-01-096,Department-Store Catalog Gouache,1,clio_new_styles_sheet_01.png,95,9,5,1500,2700,300,300
+new-01-097,Luxury Packaging Illustration,1,clio_new_styles_sheet_01.png,96,9,6,1800,2700,300,300
+new-01-098,Perfume-Blotter Watercolor,1,clio_new_styles_sheet_01.png,97,9,7,2100,2700,300,300
+new-01-099,Fashion-Swatchbook Portrait,1,clio_new_styles_sheet_01.png,98,9,8,2400,2700,300,300
+new-01-100,Editorial Moodboard Assemblage,1,clio_new_styles_sheet_01.png,99,9,9,2700,2700,300,300
+new-02-001,Signed-Distance-Field Porcelain,2,clio_new_styles_sheet_02.png,0,0,0,0,0,300,300
+new-02-002,Point-Cloud Fashion Portrait,2,clio_new_styles_sheet_02.png,1,0,1,300,0,300,300
+new-02-003,Gaussian-Splat Dream Capture,2,clio_new_styles_sheet_02.png,2,0,2,600,0,300,300
+new-02-004,Neural-Radiance-Field Diorama,2,clio_new_styles_sheet_02.png,3,0,3,900,0,300,300
+new-02-005,Voxel-Carved Editorial,2,clio_new_styles_sheet_02.png,4,0,4,1200,0,300,300
+new-02-006,Subsurface-Scattering Wax Render,2,clio_new_styles_sheet_02.png,5,0,5,1500,0,300,300
+new-02-007,Anisotropic-Hair Shader Poster,2,clio_new_styles_sheet_02.png,6,0,6,1800,0,300,300
+new-02-008,Toon-Shader With Ink Boil,2,clio_new_styles_sheet_02.png,7,0,7,2100,0,300,300
+new-02-009,Path-Traced Paper Miniature,2,clio_new_styles_sheet_02.png,8,0,8,2400,0,300,300
+new-02-010,Ray-Marched Crystal Figure,2,clio_new_styles_sheet_02.png,9,0,9,2700,0,300,300
+new-02-011,Reaction-Diffusion Skin Pattern,2,clio_new_styles_sheet_02.png,10,1,0,0,300,300,300
+new-02-012,Cellular-Automata Roomscape,2,clio_new_styles_sheet_02.png,11,1,1,300,300,300,300
+new-02-013,Quasicrystal Ornament Portrait,2,clio_new_styles_sheet_02.png,12,1,2,600,300,300,300
+new-02-014,Voronoi-Stained Digital Glass,2,clio_new_styles_sheet_02.png,13,1,3,900,300,300,300
+new-02-015,Vector-Field Hair Flow,2,clio_new_styles_sheet_02.png,14,1,4,1200,300,300,300
+new-02-016,Perlin-Noise Gouache Simulation,2,clio_new_styles_sheet_02.png,15,1,5,1500,300,300,300
+new-02-017,Fractal-Flame Fashion Art,2,clio_new_styles_sheet_02.png,16,1,6,1800,300,300,300
+new-02-018,Strange-Attractor Light Drawing,2,clio_new_styles_sheet_02.png,17,1,7,2100,300,300,300
+new-02-019,L-System Botanical Interior,2,clio_new_styles_sheet_02.png,18,1,8,2400,300,300,300
+new-02-020,Metaball Liquid Character,2,clio_new_styles_sheet_02.png,19,1,9,2700,300,300,300
+new-02-021,CRT Vector-Display Portrait,2,clio_new_styles_sheet_02.png,20,2,0,0,600,300,300
+new-02-022,Oscilloscope Line Illustration,2,clio_new_styles_sheet_02.png,21,2,1,300,600,300,300
+new-02-023,Raster-Scan Displacement Art,2,clio_new_styles_sheet_02.png,22,2,2,600,600,300,300
+new-02-024,Datamosh Pastel Realism,2,clio_new_styles_sheet_02.png,23,2,3,900,600,300,300
+new-02-025,Packet-Loss Mosaic Portrait,2,clio_new_styles_sheet_02.png,24,2,4,1200,600,300,300
+new-02-026,Error-Diffusion Dither Deluxe,2,clio_new_styles_sheet_02.png,25,2,5,1500,600,300,300
+new-02-027,Ordered-Bayer Fashion Graphic,2,clio_new_styles_sheet_02.png,26,2,6,1800,600,300,300
+new-02-028,Palette-Cycling Pixel Painting,2,clio_new_styles_sheet_02.png,27,2,7,2100,600,300,300
+new-02-029,Scanline-Doubled Anime Realism,2,clio_new_styles_sheet_02.png,28,2,8,2400,600,300,300
+new-02-030,Subpixel-RGB Weave Portrait,2,clio_new_styles_sheet_02.png,29,2,9,2700,600,300,300
+new-02-031,Isometric Soft-Shadow Vector,2,clio_new_styles_sheet_02.png,30,3,0,0,900,300,300
+new-02-032,Axonometric Cutaway Bedroom,2,clio_new_styles_sheet_02.png,31,3,1,300,900,300,300
+new-02-033,Exploded-View Fashion Diagram,2,clio_new_styles_sheet_02.png,32,3,2,600,900,300,300
+new-02-034,Parametric-Ribbon Portrait,2,clio_new_styles_sheet_02.png,33,3,3,900,900,300,300
+new-02-035,Generative-Pen-Plotter Look,2,clio_new_styles_sheet_02.png,34,3,4,1200,900,300,300
+new-02-036,Algorithmic Quilting Graphic,2,clio_new_styles_sheet_02.png,35,3,5,1500,900,300,300
+new-02-037,Procedural-Tile Editorial,2,clio_new_styles_sheet_02.png,36,3,6,1800,900,300,300
+new-02-038,Constraint-Based Shape Grammar,2,clio_new_styles_sheet_02.png,37,3,7,2100,900,300,300
+new-02-039,Topological Contour Portrait,2,clio_new_styles_sheet_02.png,38,3,8,2400,900,300,300
+new-02-040,Computational String-Art Figure,2,clio_new_styles_sheet_02.png,39,3,9,2700,900,300,300
+new-02-041,Volumetric Fog-Slice Render,2,clio_new_styles_sheet_02.png,40,4,0,0,1200,300,300
+new-02-042,Depth-Map Duotone Relief,2,clio_new_styles_sheet_02.png,41,4,1,300,1200,300,300
+new-02-043,Normal-Map Candy Color,2,clio_new_styles_sheet_02.png,42,4,2,600,1200,300,300
+new-02-044,UV-Unwrapped Fashion Collage,2,clio_new_styles_sheet_02.png,43,4,3,900,1200,300,300
+new-02-045,Wireframe-and-Velvet Hybrid,2,clio_new_styles_sheet_02.png,44,4,4,1200,1200,300,300
+new-02-046,Boolean-Cut Plastic Sculpture,2,clio_new_styles_sheet_02.png,45,4,5,1500,1200,300,300
+new-02-047,Low-Poly Facet Glamour,2,clio_new_styles_sheet_02.png,46,4,6,1800,1200,300,300
+new-02-048,High-Poly Turntable Beauty,2,clio_new_styles_sheet_02.png,47,4,7,2100,1200,300,300
+new-02-049,NURBS-Chrome Editorial,2,clio_new_styles_sheet_02.png,48,4,8,2400,1200,300,300
+new-02-050,CAD-Clay Concept Render,2,clio_new_styles_sheet_02.png,49,4,9,2700,1200,300,300
+new-02-051,Photogrammetry Museum Scan,2,clio_new_styles_sheet_02.png,50,5,0,0,1500,300,300
+new-02-052,Structured-Light Color Bands,2,clio_new_styles_sheet_02.png,51,5,1,300,1500,300,300
+new-02-053,LiDAR Reflectance Portrait,2,clio_new_styles_sheet_02.png,52,5,2,600,1500,300,300
+new-02-054,Thermal-Depth Fusion Image,2,clio_new_styles_sheet_02.png,53,5,3,900,1500,300,300
+new-02-055,Multispectral False-Color Fashion,2,clio_new_styles_sheet_02.png,54,5,4,1200,1500,300,300
+new-02-056,Hyperspectral Material Map,2,clio_new_styles_sheet_02.png,55,5,5,1500,1500,300,300
+new-02-057,Polarization-Map Beauty Art,2,clio_new_styles_sheet_02.png,56,5,6,1800,1500,300,300
+new-02-058,Surface-Normal Illustration,2,clio_new_styles_sheet_02.png,57,5,7,2100,1500,300,300
+new-02-059,Ambient-Occlusion Paper Art,2,clio_new_styles_sheet_02.png,58,5,8,2400,1500,300,300
+new-02-060,Depth-Peeling Glass Layers,2,clio_new_styles_sheet_02.png,59,5,9,2700,1500,300,300
+new-02-061,Liquid-Crystal Shader Portrait,2,clio_new_styles_sheet_02.png,60,6,0,0,1800,300,300
+new-02-062,Holographic-Foil CG Render,2,clio_new_styles_sheet_02.png,61,6,1,300,1800,300,300
+new-02-063,Dichroic-Glass Fashion Scene,2,clio_new_styles_sheet_02.png,62,6,2,600,1800,300,300
+new-02-064,Iridescent Thin-Film Realism,2,clio_new_styles_sheet_02.png,63,6,3,900,1800,300,300
+new-02-065,Opalescent Caustic Illustration,2,clio_new_styles_sheet_02.png,64,6,4,1200,1800,300,300
+new-02-066,Fresnel-Rim Velvet Render,2,clio_new_styles_sheet_02.png,65,6,5,1500,1800,300,300
+new-02-067,Chromatic-Dispersion Crystal Art,2,clio_new_styles_sheet_02.png,66,6,6,1800,1800,300,300
+new-02-068,Prismatic-Refraction Editorial,2,clio_new_styles_sheet_02.png,67,6,7,2100,1800,300,300
+new-02-069,Photoelastic Stress-Color Figure,2,clio_new_styles_sheet_02.png,68,6,8,2400,1800,300,300
+new-02-070,Polarized-Acrylic Lightbox,2,clio_new_styles_sheet_02.png,69,6,9,2700,1800,300,300
+new-02-071,Soft-Body Simulation Portrait,2,clio_new_styles_sheet_02.png,70,7,0,0,2100,300,300
+new-02-072,Cloth-Solver Couture Study,2,clio_new_styles_sheet_02.png,71,7,1,300,2100,300,300
+new-02-073,Particle-Hair Silhouette,2,clio_new_styles_sheet_02.png,72,7,2,600,2100,300,300
+new-02-074,Fluid-Simulation Ink Room,2,clio_new_styles_sheet_02.png,73,7,3,900,2100,300,300
+new-02-075,Smoke-Advection Fashion Art,2,clio_new_styles_sheet_02.png,74,7,4,1200,2100,300,300
+new-02-076,Sand-Simulation Figure Study,2,clio_new_styles_sheet_02.png,75,7,5,1500,2100,300,300
+new-02-077,Rigid-Body Paper Collage,2,clio_new_styles_sheet_02.png,76,7,6,1800,2100,300,300
+new-02-078,Spring-Mesh Character Render,2,clio_new_styles_sheet_02.png,77,7,7,2100,2100,300,300
+new-02-079,Tessellated-Skin Motion Graphic,2,clio_new_styles_sheet_02.png,78,7,8,2400,2100,300,300
+new-02-080,Morph-Target Editorial Dream,2,clio_new_styles_sheet_02.png,79,7,9,2700,2100,300,300
+new-02-081,WebGL Shader-Toy Surrealism,2,clio_new_styles_sheet_02.png,80,8,0,0,2400,300,300
+new-02-082,Demo-Scene Neon Geometry,2,clio_new_styles_sheet_02.png,81,8,1,300,2400,300,300
+new-02-083,Procedural-Material Showcase,2,clio_new_styles_sheet_02.png,82,8,2,600,2400,300,300
+new-02-084,Realtime-Raytracing Glamour,2,clio_new_styles_sheet_02.png,83,8,3,900,2400,300,300
+new-02-085,Virtual-Production LED Look,2,clio_new_styles_sheet_02.png,84,8,4,1200,2400,300,300
+new-02-086,Motion-Capture Preview Chic,2,clio_new_styles_sheet_02.png,85,8,5,1500,2400,300,300
+new-02-087,Digital-Human Calibration Art,2,clio_new_styles_sheet_02.png,86,8,6,1800,2400,300,300
+new-02-088,Game-Engine Photo-Mode Dream,2,clio_new_styles_sheet_02.png,87,8,7,2100,2400,300,300
+new-02-089,Synthetic-Data Portrait,2,clio_new_styles_sheet_02.png,88,8,8,2400,2400,300,300
+new-02-090,Benchmark-Scene Romanticism,2,clio_new_styles_sheet_02.png,89,8,9,2700,2400,300,300
+new-02-091,ASCII-Density Portrait Deluxe,2,clio_new_styles_sheet_02.png,90,9,0,0,2700,300,300
+new-02-092,Unicode-Block Mosaic Realism,2,clio_new_styles_sheet_02.png,91,9,1,300,2700,300,300
+new-02-093,Terminal-Phosphor Fashion Art,2,clio_new_styles_sheet_02.png,92,9,2,600,2700,300,300
+new-02-094,Dot-Matrix Printer CG Hybrid,2,clio_new_styles_sheet_02.png,93,9,3,900,2700,300,300
+new-02-095,Plotter-Path Neon Portrait,2,clio_new_styles_sheet_02.png,94,9,4,1200,2700,300,300
+new-02-096,Barcode-Stripe Abstraction,2,clio_new_styles_sheet_02.png,95,9,5,1500,2700,300,300
+new-02-097,QR-Module Textile Graphic,2,clio_new_styles_sheet_02.png,96,9,6,1800,2700,300,300
+new-02-098,Binary-Punchcard Portrait,2,clio_new_styles_sheet_02.png,97,9,7,2100,2700,300,300
+new-02-099,Hex-Dump Color Field,2,clio_new_styles_sheet_02.png,98,9,8,2400,2700,300,300
+new-02-100,Source-Code Syntax Collage,2,clio_new_styles_sheet_02.png,99,9,9,2700,2700,300,300
+new-03-001,1930s Silhouette-Theatre Animation,3,clio_new_styles_sheet_03.png,0,0,0,0,0,300,300
+new-03-002,1940s Wartime Training Cartoon,3,clio_new_styles_sheet_03.png,1,0,1,300,0,300,300
+new-03-003,1950s Modernist TV Bumper,3,clio_new_styles_sheet_03.png,2,0,2,600,0,300,300
+new-03-004,1960s Czech Cutout Animation,3,clio_new_styles_sheet_03.png,3,0,3,900,0,300,300
+new-03-005,1970s Educational Cel Cartoon,3,clio_new_styles_sheet_03.png,4,0,4,1200,0,300,300
+new-03-006,1980s Saturday-Morning Toy Ad,3,clio_new_styles_sheet_03.png,5,0,5,1500,0,300,300
+new-03-007,1990s Direct-to-Video Fantasy,3,clio_new_styles_sheet_03.png,6,0,6,1800,0,300,300
+new-03-008,Early-2000s Flash Web Cartoon,3,clio_new_styles_sheet_03.png,7,0,7,2100,0,300,300
+new-03-009,Mid-2000s Music-Channel Ident,3,clio_new_styles_sheet_03.png,8,0,8,2400,0,300,300
+new-03-010,Contemporary Motion-Poster Animation,3,clio_new_styles_sheet_03.png,9,0,9,2700,0,300,300
+new-03-011,Paint-on-Glass Animation Frame,3,clio_new_styles_sheet_03.png,10,1,0,0,300,300,300
+new-03-012,Pinscreen Animation Portrait,3,clio_new_styles_sheet_03.png,11,1,1,300,300,300,300
+new-03-013,Sand-on-Glass Animation Still,3,clio_new_styles_sheet_03.png,12,1,2,600,300,300,300
+new-03-014,Oil-on-Glass Morphing Art,3,clio_new_styles_sheet_03.png,13,1,3,900,300,300,300
+new-03-015,Stratacut Clay Animation,3,clio_new_styles_sheet_03.png,14,1,4,1200,300,300,300
+new-03-016,Replacement-Face Stop Motion,3,clio_new_styles_sheet_03.png,15,1,5,1500,300,300,300
+new-03-017,Paper-Puppet Multiplane Scene,3,clio_new_styles_sheet_03.png,16,1,6,1800,300,300,300
+new-03-018,Rotoscoped Pencil Boil,3,clio_new_styles_sheet_03.png,17,1,7,2100,300,300,300
+new-03-019,Xerography Cel-Transfer Look,3,clio_new_styles_sheet_03.png,18,1,8,2400,300,300,300
+new-03-020,Under-Camera Charcoal Animation,3,clio_new_styles_sheet_03.png,19,1,9,2700,300,300,300
+new-03-021,British Girls-Annual Comic Art,3,clio_new_styles_sheet_03.png,20,2,0,0,600,300,300
+new-03-022,Italian Fumetti Painted Cover,3,clio_new_styles_sheet_03.png,21,2,1,300,600,300,300
+new-03-023,Spanish Adventure-Pulp Comic,3,clio_new_styles_sheet_03.png,22,2,2,600,600,300,300
+new-03-024,German Picture-Story Modernism,3,clio_new_styles_sheet_03.png,23,2,3,900,600,300,300
+new-03-025,Dutch Clear-Line Satire,3,clio_new_styles_sheet_03.png,24,2,4,1200,600,300,300
+new-03-026,Scandinavian Newspaper Comic,3,clio_new_styles_sheet_03.png,25,2,5,1500,600,300,300
+new-03-027,Argentine Sci-Fi Weekly Art,3,clio_new_styles_sheet_03.png,26,2,6,1800,600,300,300
+new-03-028,Brazilian Youth-Comic Pop,3,clio_new_styles_sheet_03.png,27,2,7,2100,600,300,300
+new-03-029,Mexican Romance-Fotonovela Drawn,3,clio_new_styles_sheet_03.png,28,2,8,2400,600,300,300
+new-03-030,South-African Township Comic Graphic,3,clio_new_styles_sheet_03.png,29,2,9,2700,600,300,300
+new-03-031,Sunday-Supplement Adventure Strip,3,clio_new_styles_sheet_03.png,30,3,0,0,900,300,300
+new-03-032,Golden-Age Romance-Comic Soft Ink,3,clio_new_styles_sheet_03.png,31,3,1,300,900,300,300
+new-03-033,Silver-Age Mystery-Comic Palette,3,clio_new_styles_sheet_03.png,32,3,2,600,900,300,300
+new-03-034,Bronze-Age Occult-Comic Brushwork,3,clio_new_styles_sheet_03.png,33,3,3,900,900,300,300
+new-03-035,Underground-Comix Domestic Scene,3,clio_new_styles_sheet_03.png,34,3,4,1200,900,300,300
+new-03-036,Newspaper-Strip Wash Color,3,clio_new_styles_sheet_03.png,35,3,5,1500,900,300,300
+new-03-037,Treasury-Edition Painted Comic,3,clio_new_styles_sheet_03.png,36,3,6,1800,900,300,300
+new-03-038,Digest-Manga Paperback Texture,3,clio_new_styles_sheet_03.png,37,3,7,2100,900,300,300
+new-03-039,Webcomic Infinite-Canvas Look,3,clio_new_styles_sheet_03.png,38,3,8,2400,900,300,300
+new-03-040,Motion-Comic Parallax Frame,3,clio_new_styles_sheet_03.png,39,3,9,2700,900,300,300
+new-03-041,French Animated-Feature Gouache,3,clio_new_styles_sheet_03.png,40,4,0,0,1200,300,300
+new-03-042,Hungarian Folk-Animation Graphic,3,clio_new_styles_sheet_03.png,41,4,1,300,1200,300,300
+new-03-043,Polish Poster-Animation Hybrid,3,clio_new_styles_sheet_03.png,42,4,2,600,1200,300,300
+new-03-044,Yugoslav Zagreb-School Minimalism,3,clio_new_styles_sheet_03.png,43,4,3,900,1200,300,300
+new-03-045,Romanian Paper-Collage Cartoon,3,clio_new_styles_sheet_03.png,44,4,4,1200,1200,300,300
+new-03-046,Estonian Surreal Puppet Animation,3,clio_new_styles_sheet_03.png,45,4,5,1500,1200,300,300
+new-03-047,Latvian Painted-Cel Fairytale,3,clio_new_styles_sheet_03.png,46,4,6,1800,1200,300,300
+new-03-048,Lithuanian Graphic-Animation Look,3,clio_new_styles_sheet_03.png,47,4,7,2100,1200,300,300
+new-03-049,Bulgarian Woodcut Cartoon,3,clio_new_styles_sheet_03.png,48,4,8,2400,1200,300,300
+new-03-050,Georgian Theatrical Animation,3,clio_new_styles_sheet_03.png,49,4,9,2700,1200,300,300
+new-03-051,Canadian Paint-on-Film Abstraction,3,clio_new_styles_sheet_03.png,50,5,0,0,1500,300,300
+new-03-052,NFB Paper-Cut Documentary,3,clio_new_styles_sheet_03.png,51,5,1,300,1500,300,300
+new-03-053,Australian Bush-Story Cartoon,3,clio_new_styles_sheet_03.png,52,5,2,600,1500,300,300
+new-03-054,New-Zealand Ink-Wash Animation,3,clio_new_styles_sheet_03.png,53,5,3,900,1500,300,300
+new-03-055,Pacific Tapa-Pattern Cartoon,3,clio_new_styles_sheet_03.png,54,5,4,1200,1500,300,300
+new-03-056,Caribbean Carnival Animation,3,clio_new_styles_sheet_03.png,55,5,5,1500,1500,300,300
+new-03-057,Brazilian Cordel Motion Graphic,3,clio_new_styles_sheet_03.png,56,5,6,1800,1500,300,300
+new-03-058,Andean Textile-Animation Hybrid,3,clio_new_styles_sheet_03.png,57,5,7,2100,1500,300,300
+new-03-059,Arctic Cut-Paper Legend,3,clio_new_styles_sheet_03.png,58,5,8,2400,1500,300,300
+new-03-060,Desert Sand-Animation Story,3,clio_new_styles_sheet_03.png,59,5,9,2700,1500,300,300
+new-03-061,Fashion-Storyboard Marker Frame,3,clio_new_styles_sheet_03.png,60,6,0,0,1800,300,300
+new-03-062,Commercial Animatic Pencil Frame,3,clio_new_styles_sheet_03.png,61,6,1,300,1800,300,300
+new-03-063,Layout-Pencil With Color Keys,3,clio_new_styles_sheet_03.png,62,6,2,600,1800,300,300
+new-03-064,Clean-Up Animation Drawing,3,clio_new_styles_sheet_03.png,63,6,3,900,1800,300,300
+new-03-065,Inbetween-Chart Aesthetic,3,clio_new_styles_sheet_03.png,64,6,4,1200,1800,300,300
+new-03-066,Model-Sheet Turnaround Glamour,3,clio_new_styles_sheet_03.png,65,6,5,1500,1800,300,300
+new-03-067,Background-Painting Character Insert,3,clio_new_styles_sheet_03.png,66,6,6,1800,1800,300,300
+new-03-068,Color-Script Mood Frame,3,clio_new_styles_sheet_03.png,67,6,7,2100,1800,300,300
+new-03-069,Exposure-Sheet Visual Rhythm,3,clio_new_styles_sheet_03.png,68,6,8,2400,1800,300,300
+new-03-070,Animation-Cel Collector Display,3,clio_new_styles_sheet_03.png,69,6,9,2700,1800,300,300
+new-03-071,Limited-Animation Hold Frame,3,clio_new_styles_sheet_03.png,70,7,0,0,2100,300,300
+new-03-072,Smear-Frame Fashion Portrait,3,clio_new_styles_sheet_03.png,71,7,1,300,2100,300,300
+new-03-073,Impact-Frame Graphic Burst,3,clio_new_styles_sheet_03.png,72,7,2,600,2100,300,300
+new-03-074,Multipane Depth Illustration,3,clio_new_styles_sheet_03.png,73,7,3,900,2100,300,300
+new-03-075,Drybrush-Speedline Animation,3,clio_new_styles_sheet_03.png,74,7,4,1200,2100,300,300
+new-03-076,Boiling-Line Indie Cartoon,3,clio_new_styles_sheet_03.png,75,7,5,1500,2100,300,300
+new-03-077,Squigglevision Domestic Scene,3,clio_new_styles_sheet_03.png,76,7,6,1800,2100,300,300
+new-03-078,Chalkboard-Animation Still,3,clio_new_styles_sheet_03.png,77,7,7,2100,2100,300,300
+new-03-079,Whiteboard-Explainer Deluxe,3,clio_new_styles_sheet_03.png,78,7,8,2400,2100,300,300
+new-03-080,Kinetic-Collage Title Sequence,3,clio_new_styles_sheet_03.png,79,7,9,2700,2100,300,300
+new-03-081,Rubber-Hose Fashion Revival,3,clio_new_styles_sheet_03.png,80,8,0,0,2400,300,300
+new-03-082,Atomic-Age Cartoon Modern,3,clio_new_styles_sheet_03.png,81,8,1,300,2400,300,300
+new-03-083,Psychedelic-TV Animation,3,clio_new_styles_sheet_03.png,82,8,2,600,2400,300,300
+new-03-084,New-Wave Music-Video Cartoon,3,clio_new_styles_sheet_03.png,83,8,3,900,2400,300,300
+new-03-085,Grunge-Zine Animation Frame,3,clio_new_styles_sheet_03.png,84,8,4,1200,2400,300,300
+new-03-086,Rave-Flyer Motion Graphic,3,clio_new_styles_sheet_03.png,85,8,5,1500,2400,300,300
+new-03-087,Y2K Vector-Anime Hybrid,3,clio_new_styles_sheet_03.png,86,8,6,1800,2400,300,300
+new-03-088,Indie-Webtoon Motion Panel,3,clio_new_styles_sheet_03.png,87,8,7,2100,2400,300,300
+new-03-089,Sticker-Bomb Cartoon Portrait,3,clio_new_styles_sheet_03.png,88,8,8,2400,2400,300,300
+new-03-090,Mascot-Horror Animation Chic,3,clio_new_styles_sheet_03.png,89,8,9,2700,2400,300,300
+new-03-091,Shadow-Box Stop-Motion Scene,3,clio_new_styles_sheet_03.png,90,9,0,0,2700,300,300
+new-03-092,Felt-Puppet TV Special,3,clio_new_styles_sheet_03.png,91,9,1,300,2700,300,300
+new-03-093,Foam-Latex Creature Cartoon,3,clio_new_styles_sheet_03.png,92,9,2,600,2700,300,300
+new-03-094,Wire-Armature Sketch Animation,3,clio_new_styles_sheet_03.png,93,9,3,900,2700,300,300
+new-03-095,Wooden-Toy Stop-Motion Look,3,clio_new_styles_sheet_03.png,94,9,4,1200,2700,300,300
+new-03-096,Porcelain-Doll Animation Frame,3,clio_new_styles_sheet_03.png,95,9,5,1500,2700,300,300
+new-03-097,Matchbox-Miniature Cartoon,3,clio_new_styles_sheet_03.png,96,9,6,1800,2700,300,300
+new-03-098,Food-Stop-Motion Editorial,3,clio_new_styles_sheet_03.png,97,9,7,2100,2700,300,300
+new-03-099,Object-Animation Bedroom Scene,3,clio_new_styles_sheet_03.png,98,9,8,2400,2700,300,300
+new-03-100,Pixilation Live-Action Cartoon,3,clio_new_styles_sheet_03.png,99,9,9,2700,2700,300,300
+new-04-001,Autochrome Bedroom Portrait,4,clio_new_styles_sheet_04.png,0,0,0,0,0,300,300
+new-04-002,Lumiere Plate Soft Color,4,clio_new_styles_sheet_04.png,1,0,1,300,0,300,300
+new-04-003,Hand-Colored Cabinet Photograph,4,clio_new_styles_sheet_04.png,2,0,2,600,0,300,300
+new-04-004,Tintype With Rose-Gold Toning,4,clio_new_styles_sheet_04.png,3,0,3,900,0,300,300
+new-04-005,Albumen-Print Fashion Portrait,4,clio_new_styles_sheet_04.png,4,0,4,1200,0,300,300
+new-04-006,Salt-Print Domestic Scene,4,clio_new_styles_sheet_04.png,5,0,5,1500,0,300,300
+new-04-007,Carbon-Transfer Portrait,4,clio_new_styles_sheet_04.png,6,0,6,1800,0,300,300
+new-04-008,Gum-Bichromate Pastel Photo,4,clio_new_styles_sheet_04.png,7,0,7,2100,0,300,300
+new-04-009,Bromoil Painterly Photograph,4,clio_new_styles_sheet_04.png,8,0,8,2400,0,300,300
+new-04-010,Platinum-Palladium Soft Portrait,4,clio_new_styles_sheet_04.png,9,0,9,2700,0,300,300
+new-04-011,Techniscope Bedroom Cinema,4,clio_new_styles_sheet_04.png,10,1,0,0,300,300,300
+new-04-012,VistaVision Intimate Portrait,4,clio_new_styles_sheet_04.png,11,1,1,300,300,300,300
+new-04-013,Three-Strip Dye-Transfer Glamour,4,clio_new_styles_sheet_04.png,12,1,2,600,300,300,300
+new-04-014,Two-Color Technicolor Dream,4,clio_new_styles_sheet_04.png,13,1,3,900,300,300,300
+new-04-015,Sodium-Vapor Composite Look,4,clio_new_styles_sheet_04.png,14,1,4,1200,300,300,300
+new-04-016,Rear-Projection Studio Portrait,4,clio_new_styles_sheet_04.png,15,1,5,1500,300,300,300
+new-04-017,Front-Projection Fantasy Interior,4,clio_new_styles_sheet_04.png,16,1,6,1800,300,300,300
+new-04-018,Day-for-Night Reversal Portrait,4,clio_new_styles_sheet_04.png,17,1,7,2100,300,300,300
+new-04-019,Skip-Frame Optical Print,4,clio_new_styles_sheet_04.png,18,1,8,2400,300,300,300
+new-04-020,Contact-Printer Light-Leak Art,4,clio_new_styles_sheet_04.png,19,1,9,2700,300,300,300
+new-04-021,Split-Diopter Bedroom Scene,4,clio_new_styles_sheet_04.png,20,2,0,0,600,300,300
+new-04-022,Swing-Tilt Portrait Distortion,4,clio_new_styles_sheet_04.png,21,2,1,300,600,300,300
+new-04-023,Pet-Zval Swirl-Bokeh Portrait,4,clio_new_styles_sheet_04.png,22,2,2,600,600,300,300
+new-04-024,Zone-Plate Soft-Focus Fashion,4,clio_new_styles_sheet_04.png,23,2,3,900,600,300,300
+new-04-025,Pinhole Long-Exposure Interior,4,clio_new_styles_sheet_04.png,24,2,4,1200,600,300,300
+new-04-026,Lensbaby Edge-Blur Glamour,4,clio_new_styles_sheet_04.png,25,2,5,1500,600,300,300
+new-04-027,Catadioptric Donut-Bokeh Portrait,4,clio_new_styles_sheet_04.png,26,2,6,1800,600,300,300
+new-04-028,Anamorphic-Streak Domestic Scene,4,clio_new_styles_sheet_04.png,27,2,7,2100,600,300,300
+new-04-029,Fisheye Room Portrait,4,clio_new_styles_sheet_04.png,28,2,8,2400,600,300,300
+new-04-030,Periscope-Lens Fashion Angle,4,clio_new_styles_sheet_04.png,29,2,9,2700,600,300,300
+new-04-031,Cross-Polarized Beauty Portrait,4,clio_new_styles_sheet_04.png,30,3,0,0,900,300,300
+new-04-032,Dark-Field Portrait Photography,4,clio_new_styles_sheet_04.png,31,3,1,300,900,300,300
+new-04-033,Schlieren-Airflow Fashion Photo,4,clio_new_styles_sheet_04.png,32,3,2,600,900,300,300
+new-04-034,Photoelastic Stress-Light Portrait,4,clio_new_styles_sheet_04.png,33,3,3,900,900,300,300
+new-04-035,Fluorescence-Excitation Glamour,4,clio_new_styles_sheet_04.png,34,3,4,1200,900,300,300
+new-04-036,Ultraviolet-Reflectance Portrait,4,clio_new_styles_sheet_04.png,35,3,5,1500,900,300,300
+new-04-037,Near-Infrared Skin-and-Fabric Study,4,clio_new_styles_sheet_04.png,36,3,6,1800,900,300,300
+new-04-038,Shortwave-Infrared Fashion Image,4,clio_new_styles_sheet_04.png,37,3,7,2100,900,300,300
+new-04-039,Thermographic Bedroom Portrait,4,clio_new_styles_sheet_04.png,38,3,8,2400,900,300,300
+new-04-040,Multispectral Conservation Photo,4,clio_new_styles_sheet_04.png,39,3,9,2700,900,300,300
+new-04-041,Disposable-Camera Bedroom Flash,4,clio_new_styles_sheet_04.png,40,4,0,0,1200,300,300
+new-04-042,One-Time-Use Panoramic Look,4,clio_new_styles_sheet_04.png,41,4,1,300,1200,300,300
+new-04-043,Toy-Camera Light-Leak Portrait,4,clio_new_styles_sheet_04.png,42,4,2,600,1200,300,300
+new-04-044,Half-Frame Diary Photography,4,clio_new_styles_sheet_04.png,43,4,3,900,1200,300,300
+new-04-045,Disc-Film Family Portrait,4,clio_new_styles_sheet_04.png,44,4,4,1200,1200,300,300
+new-04-046,110-Pocket-Film Fashion,4,clio_new_styles_sheet_04.png,45,4,5,1500,1200,300,300
+new-04-047,126-Instamatic Domestic Scene,4,clio_new_styles_sheet_04.png,46,4,6,1800,1200,300,300
+new-04-048,APS-Advanced-Photo-System Look,4,clio_new_styles_sheet_04.png,47,4,7,2100,1200,300,300
+new-04-049,Polaroid-Peel-Apart Editorial,4,clio_new_styles_sheet_04.png,48,4,8,2400,1200,300,300
+new-04-050,Instant-Packfilm Chemical Edge,4,clio_new_styles_sheet_04.png,49,4,9,2700,1200,300,300
+new-04-051,Airport-Security X-Ray Portrait,4,clio_new_styles_sheet_04.png,50,5,0,0,1500,300,300
+new-04-052,Medical-Archive Contact Print,4,clio_new_styles_sheet_04.png,51,5,1,300,1500,300,300
+new-04-053,Forensic-Scale Bedroom Photo,4,clio_new_styles_sheet_04.png,52,5,2,600,1500,300,300
+new-04-054,Insurance-Inventory Flash Photo,4,clio_new_styles_sheet_04.png,53,5,3,900,1500,300,300
+new-04-055,Real-Estate Listing Portrait,4,clio_new_styles_sheet_04.png,54,5,4,1200,1500,300,300
+new-04-056,Passport-Booth Fashion Series,4,clio_new_styles_sheet_04.png,55,5,5,1500,1500,300,300
+new-04-057,School-Picture-Day Glamour,4,clio_new_styles_sheet_04.png,56,5,6,1800,1500,300,300
+new-04-058,Department-Store Portrait Studio,4,clio_new_styles_sheet_04.png,57,5,7,2100,1500,300,300
+new-04-059,Mall-Glamour Soft-Focus Photo,4,clio_new_styles_sheet_04.png,58,5,8,2400,1500,300,300
+new-04-060,Theme-Park Souvenir Portrait,4,clio_new_styles_sheet_04.png,59,5,9,2700,1500,300,300
+new-04-061,Night-Vision Phosphor Portrait,4,clio_new_styles_sheet_04.png,60,6,0,0,1800,300,300
+new-04-062,Image-Intensifier Bloom Look,4,clio_new_styles_sheet_04.png,61,6,1,300,1800,300,300
+new-04-063,Surveillance-PTZ Bedroom Still,4,clio_new_styles_sheet_04.png,62,6,2,600,1800,300,300
+new-04-064,Body-Camera Wide-Angle Scene,4,clio_new_styles_sheet_04.png,63,6,3,900,1800,300,300
+new-04-065,Dashcam Domestic Portrait,4,clio_new_styles_sheet_04.png,64,6,4,1200,1800,300,300
+new-04-066,Doorbell-Camera Fashion Moment,4,clio_new_styles_sheet_04.png,65,6,5,1500,1800,300,300
+new-04-067,Webcam-2003 Bedroom Portrait,4,clio_new_styles_sheet_04.png,66,6,6,1800,1800,300,300
+new-04-068,Phone-Camera HDR-Off Look,4,clio_new_styles_sheet_04.png,67,6,7,2100,1800,300,300
+new-04-069,Front-Camera Beauty-Filter Raw,4,clio_new_styles_sheet_04.png,68,6,8,2400,1800,300,300
+new-04-070,Video-Call Compression Portrait,4,clio_new_styles_sheet_04.png,69,6,9,2700,1800,300,300
+new-04-071,MiniDV Interlaced Glamour,4,clio_new_styles_sheet_04.png,70,7,0,0,2100,300,300
+new-04-072,Hi8 Home-Video Bedroom Still,4,clio_new_styles_sheet_04.png,71,7,1,300,2100,300,300
+new-04-073,Betacam News-Magazine Portrait,4,clio_new_styles_sheet_04.png,72,7,2,600,2100,300,300
+new-04-074,U-matic Studio-Test Look,4,clio_new_styles_sheet_04.png,73,7,3,900,2100,300,300
+new-04-075,VHS-C Camcorder Diary,4,clio_new_styles_sheet_04.png,74,7,4,1200,2100,300,300
+new-04-076,Laserdisc Freeze-Frame Cinema,4,clio_new_styles_sheet_04.png,75,7,5,1500,2100,300,300
+new-04-077,SECAM Broadcast Color Portrait,4,clio_new_styles_sheet_04.png,76,7,6,1800,2100,300,300
+new-04-078,PAL Field-Blended Fashion,4,clio_new_styles_sheet_04.png,77,7,7,2100,2100,300,300
+new-04-079,NTSC Rainbow-Crawl Bedroom,4,clio_new_styles_sheet_04.png,78,7,8,2400,2100,300,300
+new-04-080,Genlock-Error Video Portrait,4,clio_new_styles_sheet_04.png,79,7,9,2700,2100,300,300
+new-04-081,Macro-Ringflash Beauty Portrait,4,clio_new_styles_sheet_04.png,80,8,0,0,2400,300,300
+new-04-082,Dental-Mirror Clinical Glamour,4,clio_new_styles_sheet_04.png,81,8,1,300,2400,300,300
+new-04-083,Copy-Stand Archival Portrait,4,clio_new_styles_sheet_04.png,82,8,2,600,2400,300,300
+new-04-084,Tabletop Product-Light Fashion,4,clio_new_styles_sheet_04.png,83,8,3,900,2400,300,300
+new-04-085,Fiber-Optic Light-Paint Portrait,4,clio_new_styles_sheet_04.png,84,8,4,1200,2400,300,300
+new-04-086,Projected-Gobo Bedroom Photo,4,clio_new_styles_sheet_04.png,85,8,5,1500,2400,300,300
+new-04-087,Cookie-Shadow Fashion Editorial,4,clio_new_styles_sheet_04.png,86,8,6,1800,2400,300,300
+new-04-088,Book-Light Cinematic Portrait,4,clio_new_styles_sheet_04.png,87,8,7,2100,2400,300,300
+new-04-089,Lantern-Lit Period Photograph,4,clio_new_styles_sheet_04.png,88,8,8,2400,2400,300,300
+new-04-090,Practical-Bulb No-Fill Portrait,4,clio_new_styles_sheet_04.png,89,8,9,2700,2400,300,300
+new-04-091,Rain-on-Lens Romantic Portrait,4,clio_new_styles_sheet_04.png,90,9,0,0,2700,300,300
+new-04-092,Condensation-Glass Bedroom Photo,4,clio_new_styles_sheet_04.png,91,9,1,300,2700,300,300
+new-04-093,Dusty-Filter Sunbeam Fashion,4,clio_new_styles_sheet_04.png,92,9,2,600,2700,300,300
+new-04-094,Underexposed Tungsten Interior,4,clio_new_styles_sheet_04.png,93,9,3,900,2700,300,300
+new-04-095,Overexposed Window-Light Portrait,4,clio_new_styles_sheet_04.png,94,9,4,1200,2700,300,300
+new-04-096,Mixed-Color-Temperature Glamour,4,clio_new_styles_sheet_04.png,95,9,5,1500,2700,300,300
+new-04-097,Mercury-Vapor Room Portrait,4,clio_new_styles_sheet_04.png,96,9,6,1800,2700,300,300
+new-04-098,Low-Pressure-Sodium Fashion,4,clio_new_styles_sheet_04.png,97,9,7,2100,2700,300,300
+new-04-099,Fluorescent-Green Office Photo,4,clio_new_styles_sheet_04.png,98,9,8,2400,2700,300,300
+new-04-100,Candle-Smoke Soft Portrait,4,clio_new_styles_sheet_04.png,99,9,9,2700,2700,300,300
+new-05-001,Silverpoint on Rose Ground,5,clio_new_styles_sheet_05.png,0,0,0,0,0,300,300
+new-05-002,Copperpoint on Chalk Vellum,5,clio_new_styles_sheet_05.png,1,0,1,300,0,300,300
+new-05-003,Carbon-Dust Beauty Illustration,5,clio_new_styles_sheet_05.png,2,0,2,600,0,300,300
+new-05-004,Lithographic-Tusche Wash Portrait,5,clio_new_styles_sheet_05.png,3,0,3,900,0,300,300
+new-05-005,Grease-Pencil Layout Glamour,5,clio_new_styles_sheet_05.png,4,0,4,1200,0,300,300
+new-05-006,China-Marker Window Drawing,5,clio_new_styles_sheet_05.png,5,0,5,1500,0,300,300
+new-05-007,Scratchboard With Pastel Tint,5,clio_new_styles_sheet_05.png,6,0,6,1800,0,300,300
+new-05-008,Graphite-Powder Soft Portrait,5,clio_new_styles_sheet_05.png,7,0,7,2100,0,300,300
+new-05-009,White-Chalk Night Drawing,5,clio_new_styles_sheet_05.png,8,0,8,2400,0,300,300
+new-05-010,Sepia-Wash Pen Portrait,5,clio_new_styles_sheet_05.png,9,0,9,2700,0,300,300
+new-05-011,Casein-on-Board Editorial,5,clio_new_styles_sheet_05.png,10,1,0,0,300,300,300
+new-05-012,Distemper Mural Intimacy,5,clio_new_styles_sheet_05.png,11,1,1,300,300,300,300
+new-05-013,Egg-Tempera Linen Portrait,5,clio_new_styles_sheet_05.png,12,1,2,600,300,300,300
+new-05-014,Resin-Glaze Panel Painting,5,clio_new_styles_sheet_05.png,13,1,3,900,300,300,300
+new-05-015,Cold-Wax Matte Portrait,5,clio_new_styles_sheet_05.png,14,1,4,1200,300,300,300
+new-05-016,Oil-Stick Bedroom Study,5,clio_new_styles_sheet_05.png,15,1,5,1500,300,300,300
+new-05-017,Flashe-Vinyl Fashion Painting,5,clio_new_styles_sheet_05.png,16,1,6,1800,300,300,300
+new-05-018,Gouache-Grisaille With Neon,5,clio_new_styles_sheet_05.png,17,1,7,2100,300,300,300
+new-05-019,Acrylic-Ink Bloom Portrait,5,clio_new_styles_sheet_05.png,18,1,8,2400,300,300,300
+new-05-020,Powder-Pigment Dry Painting,5,clio_new_styles_sheet_05.png,19,1,9,2700,300,300,300
+new-05-021,Selective-Color Mezzotint,5,clio_new_styles_sheet_05.png,20,2,0,0,600,300,300
+new-05-022,Soft-Ground Aquatint Portrait,5,clio_new_styles_sheet_05.png,21,2,1,300,600,300,300
+new-05-023,Sugar-Lift Etching Glamour,5,clio_new_styles_sheet_05.png,22,2,2,600,600,300,300
+new-05-024,Spit-Bite Aquatint Interior,5,clio_new_styles_sheet_05.png,23,2,3,900,600,300,300
+new-05-025,Drypoint Burr Romanticism,5,clio_new_styles_sheet_05.png,24,2,4,1200,600,300,300
+new-05-026,White-Line Woodcut Portrait,5,clio_new_styles_sheet_05.png,25,2,5,1500,600,300,300
+new-05-027,Reduction-Linocut Fashion Scene,5,clio_new_styles_sheet_05.png,26,2,6,1800,600,300,300
+new-05-028,Collagraph Texture Portrait,5,clio_new_styles_sheet_05.png,27,2,7,2100,600,300,300
+new-05-029,Viscosity-Print Color Layers,5,clio_new_styles_sheet_05.png,28,2,8,2400,600,300,300
+new-05-030,Chine-Colle Bedroom Print,5,clio_new_styles_sheet_05.png,29,2,9,2700,600,300,300
+new-05-031,Deckle-Edge Paper Collage,5,clio_new_styles_sheet_05.png,30,3,0,0,900,300,300
+new-05-032,Found-Envelope Portrait,5,clio_new_styles_sheet_05.png,31,3,1,300,900,300,300
+new-05-033,Torn-Bookpage Fashion Art,5,clio_new_styles_sheet_05.png,32,3,2,600,900,300,300
+new-05-034,Wallpaper-Sample Assemblage,5,clio_new_styles_sheet_05.png,33,3,3,900,900,300,300
+new-05-035,Ticket-Stub Memory Collage,5,clio_new_styles_sheet_05.png,34,3,4,1200,900,300,300
+new-05-036,Tracing-Paper Layer Portrait,5,clio_new_styles_sheet_05.png,35,3,5,1500,900,300,300
+new-05-037,Carbon-Paper Transfer Drawing,5,clio_new_styles_sheet_05.png,36,3,6,1800,900,300,300
+new-05-038,Masking-Tape Figure Study,5,clio_new_styles_sheet_05.png,37,3,7,2100,900,300,300
+new-05-039,Paper-Pulp Bas-Relief,5,clio_new_styles_sheet_05.png,38,3,8,2400,900,300,300
+new-05-040,Perforated-Card Shadow Portrait,5,clio_new_styles_sheet_05.png,39,3,9,2700,900,300,300
+new-05-041,Astrological-Manuscript Portrait,5,clio_new_styles_sheet_05.png,40,4,0,0,1200,300,300
+new-05-042,Herbal-Codex Bedroom Page,5,clio_new_styles_sheet_05.png,41,4,1,300,1200,300,300
+new-05-043,Bestiary-Marginalia Fashion Art,5,clio_new_styles_sheet_05.png,42,4,2,600,1200,300,300
+new-05-044,Alchemical-Notebook Illustration,5,clio_new_styles_sheet_05.png,43,4,3,900,1200,300,300
+new-05-045,Music-Manuscript Figure Study,5,clio_new_styles_sheet_05.png,44,4,4,1200,1200,300,300
+new-05-046,Ledger-Book Portrait Painting,5,clio_new_styles_sheet_05.png,45,4,5,1500,1200,300,300
+new-05-047,Ship-Log Watercolor Portrait,5,clio_new_styles_sheet_05.png,46,4,6,1800,1200,300,300
+new-05-048,Recipe-Book Domestic Illustration,5,clio_new_styles_sheet_05.png,47,4,7,2100,1200,300,300
+new-05-049,Travel-Diary Wash Drawing,5,clio_new_styles_sheet_05.png,48,4,8,2400,1200,300,300
+new-05-050,Field-Notebook Botanical Glamour,5,clio_new_styles_sheet_05.png,49,4,9,2700,1200,300,300
+new-05-051,Geological-Survey Portrait Map,5,clio_new_styles_sheet_05.png,50,5,0,0,1500,300,300
+new-05-052,Weather-Chart Fashion Graphic,5,clio_new_styles_sheet_05.png,51,5,1,300,1500,300,300
+new-05-053,Transit-Diagram Figure Study,5,clio_new_styles_sheet_05.png,52,5,2,600,1500,300,300
+new-05-054,Topographic-Contour Bedroom,5,clio_new_styles_sheet_05.png,53,5,3,900,1500,300,300
+new-05-055,Nautical-Chart Domestic Portrait,5,clio_new_styles_sheet_05.png,54,5,4,1200,1500,300,300
+new-05-056,Astronomical-Atlas Fashion Plate,5,clio_new_styles_sheet_05.png,55,5,5,1500,1500,300,300
+new-05-057,Anatomical-Overlay Beauty Drawing,5,clio_new_styles_sheet_05.png,56,5,6,1800,1500,300,300
+new-05-058,Exploded-Object Portrait Diagram,5,clio_new_styles_sheet_05.png,57,5,7,2100,1500,300,300
+new-05-059,Patent-Drawing Bedroom Scene,5,clio_new_styles_sheet_05.png,58,5,8,2400,1500,300,300
+new-05-060,Instruction-Manual Romanticism,5,clio_new_styles_sheet_05.png,59,5,9,2700,1500,300,300
+new-05-061,Railway-Poster Painted Portrait,5,clio_new_styles_sheet_05.png,60,6,0,0,1800,300,300
+new-05-062,Ocean-Liner Brochure Art,5,clio_new_styles_sheet_05.png,61,6,1,300,1800,300,300
+new-05-063,National-Park Poster Glamour,5,clio_new_styles_sheet_05.png,62,6,2,600,1800,300,300
+new-05-064,Circus-Billboard Portrait Painting,5,clio_new_styles_sheet_05.png,63,6,3,900,1800,300,300
+new-05-065,Silent-Film Lobby-Card Art,5,clio_new_styles_sheet_05.png,64,6,4,1200,1800,300,300
+new-05-066,Matinee-Serial Poster Look,5,clio_new_styles_sheet_05.png,65,6,5,1500,1800,300,300
+new-05-067,Paperback-Gothic Cover Art,5,clio_new_styles_sheet_05.png,66,6,6,1800,1800,300,300
+new-05-068,Romance-Novel Gouache Cover,5,clio_new_styles_sheet_05.png,67,6,7,2100,1800,300,300
+new-05-069,Science-Fiction Digest Painting,5,clio_new_styles_sheet_05.png,68,6,8,2400,1800,300,300
+new-05-070,Mystery-Dime-Novel Illustration,5,clio_new_styles_sheet_05.png,69,6,9,2700,1800,300,300
+new-05-071,Lacquer-and-Gold Paper Painting,5,clio_new_styles_sheet_05.png,70,7,0,0,2100,300,300
+new-05-072,Gesso-Incised Portrait Panel,5,clio_new_styles_sheet_05.png,71,7,1,300,2100,300,300
+new-05-073,Fresco-Secco Bedroom Portrait,5,clio_new_styles_sheet_05.png,72,7,2,600,2100,300,300
+new-05-074,Scagliola-Marbled Illustration,5,clio_new_styles_sheet_05.png,73,7,3,900,2100,300,300
+new-05-075,Stucco-Relief Color Portrait,5,clio_new_styles_sheet_05.png,74,7,4,1200,2100,300,300
+new-05-076,Burnished-Clay-Pigment Art,5,clio_new_styles_sheet_05.png,75,7,5,1500,2100,300,300
+new-05-077,Shell-Gold Manuscript Portrait,5,clio_new_styles_sheet_05.png,76,7,6,1800,2100,300,300
+new-05-078,Mica-Powder Fashion Painting,5,clio_new_styles_sheet_05.png,77,7,7,2100,2100,300,300
+new-05-079,Metallic-Leaf Underpainting,5,clio_new_styles_sheet_05.png,78,7,8,2400,2100,300,300
+new-05-080,Verdigris-Pigment Editorial,5,clio_new_styles_sheet_05.png,79,7,9,2700,2100,300,300
+new-05-081,Sidewalk-Chalk Rain Portrait,5,clio_new_styles_sheet_05.png,80,8,0,0,2400,300,300
+new-05-082,Wheatpaste-Poster Weathering,5,clio_new_styles_sheet_05.png,81,8,1,300,2400,300,300
+new-05-083,Stenciled-Crate Graphic Portrait,5,clio_new_styles_sheet_05.png,82,8,2,600,2400,300,300
+new-05-084,Painted-Shop-Shutter Art,5,clio_new_styles_sheet_05.png,83,8,3,900,2400,300,300
+new-05-085,Handbill-Overprint Collage,5,clio_new_styles_sheet_05.png,84,8,4,1200,2400,300,300
+new-05-086,Notebook-Graffiti Glamour,5,clio_new_styles_sheet_05.png,85,8,5,1500,2400,300,300
+new-05-087,Utility-Marking Color Portrait,5,clio_new_styles_sheet_05.png,86,8,6,1800,2400,300,300
+new-05-088,Construction-Hoarding Collage,5,clio_new_styles_sheet_05.png,87,8,7,2100,2400,300,300
+new-05-089,Peeling-Billboard Romanticism,5,clio_new_styles_sheet_05.png,88,8,8,2400,2400,300,300
+new-05-090,Newsprint-Pasteup Fashion Art,5,clio_new_styles_sheet_05.png,89,8,9,2700,2400,300,300
+new-05-091,Loose-Wash Fashion Diary,5,clio_new_styles_sheet_05.png,90,9,0,0,2700,300,300
+new-05-092,Dry-Gouache Cozy Portrait,5,clio_new_styles_sheet_05.png,91,9,1,300,2700,300,300
+new-05-093,Wet-Charcoal Tonal Painting,5,clio_new_styles_sheet_05.png,92,9,2,600,2700,300,300
+new-05-094,Pastel-Dust Window Light,5,clio_new_styles_sheet_05.png,93,9,3,900,2700,300,300
+new-05-095,Ink-and-Salt Crystal Bloom,5,clio_new_styles_sheet_05.png,94,9,4,1200,2700,300,300
+new-05-096,Tea-Stain Botanical Portrait,5,clio_new_styles_sheet_05.png,95,9,5,1500,2700,300,300
+new-05-097,Coffee-Wash Domestic Sketch,5,clio_new_styles_sheet_05.png,96,9,6,1800,2700,300,300
+new-05-098,Indigo-Ink Night Portrait,5,clio_new_styles_sheet_05.png,97,9,7,2100,2700,300,300
+new-05-099,Walnut-Ink Storybook Realism,5,clio_new_styles_sheet_05.png,98,9,8,2400,2700,300,300
+new-05-100,Sumi-Marbling Fashion Portrait,5,clio_new_styles_sheet_05.png,99,9,9,2700,2700,300,300
+new-06-001,Translucent Alabaster Portrait,6,clio_new_styles_sheet_06.png,0,0,0,0,0,300,300
+new-06-002,Soapstone Domestic Sculpture,6,clio_new_styles_sheet_06.png,1,0,1,300,0,300,300
+new-06-003,Carved-Salt Crystal Figure,6,clio_new_styles_sheet_06.png,2,0,2,600,0,300,300
+new-06-004,Cast-Paper Plaster Portrait,6,clio_new_styles_sheet_06.png,3,0,3,900,0,300,300
+new-06-005,Pumice-Stone Relief Art,6,clio_new_styles_sheet_06.png,4,0,4,1200,0,300,300
+new-06-006,Compressed-Earth Sculpture,6,clio_new_styles_sheet_06.png,5,0,5,1500,0,300,300
+new-06-007,Frosted-Ice Bedroom Carving,6,clio_new_styles_sheet_06.png,6,0,6,1800,0,300,300
+new-06-008,Wax Anatomical Fashion Figure,6,clio_new_styles_sheet_06.png,7,0,7,2100,0,300,300
+new-06-009,Rosin-Cast Amber Portrait,6,clio_new_styles_sheet_06.png,8,0,8,2400,0,300,300
+new-06-010,Chalkware Souvenir Sculpture,6,clio_new_styles_sheet_06.png,9,0,9,2700,0,300,300
+new-06-011,Kiln-Formed Glass Portrait,6,clio_new_styles_sheet_06.png,10,1,0,0,300,300,300
+new-06-012,Pate-de-Verre Fashion Figure,6,clio_new_styles_sheet_06.png,11,1,1,300,300,300,300
+new-06-013,Flameworked Neon Glass Art,6,clio_new_styles_sheet_06.png,12,1,2,600,300,300,300
+new-06-014,Slumped-Glass Bedroom Relief,6,clio_new_styles_sheet_06.png,13,1,3,900,300,300,300
+new-06-015,Fused-Glass Mosaic Portrait,6,clio_new_styles_sheet_06.png,14,1,4,1200,300,300,300
+new-06-016,Milk-Glass Cameo Sculpture,6,clio_new_styles_sheet_06.png,15,1,5,1500,300,300,300
+new-06-017,Crackle-Glass Romantic Figure,6,clio_new_styles_sheet_06.png,16,1,6,1800,300,300,300
+new-06-018,Mercury-Glass Mirror Portrait,6,clio_new_styles_sheet_06.png,17,1,7,2100,300,300,300
+new-06-019,Dichroic-Glass Room Art,6,clio_new_styles_sheet_06.png,18,1,8,2400,300,300,300
+new-06-020,Sea-Glass Assemblage Portrait,6,clio_new_styles_sheet_06.png,19,1,9,2700,300,300,300
+new-06-021,Hammered-Copper Repousse Portrait,6,clio_new_styles_sheet_06.png,20,2,0,0,600,300,300
+new-06-022,Blackened-Iron Cutout Figure,6,clio_new_styles_sheet_06.png,21,2,1,300,600,300,300
+new-06-023,Pewter-Cast Domestic Relief,6,clio_new_styles_sheet_06.png,22,2,2,600,600,300,300
+new-06-024,Brushed-Aluminum Fashion Art,6,clio_new_styles_sheet_06.png,23,2,3,900,600,300,300
+new-06-025,Damascened-Steel Portrait,6,clio_new_styles_sheet_06.png,24,2,4,1200,600,300,300
+new-06-026,Patinated-Bronze Bedroom Figure,6,clio_new_styles_sheet_06.png,25,2,5,1500,600,300,300
+new-06-027,Wire-Wrapped Brass Illustration,6,clio_new_styles_sheet_06.png,26,2,6,1800,600,300,300
+new-06-028,Perforated-Tin Lantern Portrait,6,clio_new_styles_sheet_06.png,27,2,7,2100,600,300,300
+new-06-029,Corten-Steel Lace Silhouette,6,clio_new_styles_sheet_06.png,28,2,8,2400,600,300,300
+new-06-030,Nickel-Silver Art-Deco Figure,6,clio_new_styles_sheet_06.png,29,2,9,2700,600,300,300
+new-06-031,Raku-Smoke Portrait Ceramic,6,clio_new_styles_sheet_06.png,30,3,0,0,900,300,300
+new-06-032,Nerikomi Marbled-Clay Figure,6,clio_new_styles_sheet_06.png,31,3,1,300,900,300,300
+new-06-033,Sgraffito-Terracotta Bedroom,6,clio_new_styles_sheet_06.png,32,3,2,600,900,300,300
+new-06-034,Paper-Clay Fashion Sculpture,6,clio_new_styles_sheet_06.png,33,3,3,900,900,300,300
+new-06-035,Celadon-Crackle Portrait,6,clio_new_styles_sheet_06.png,34,3,4,1200,900,300,300
+new-06-036,Lusterware Domestic Figure,6,clio_new_styles_sheet_06.png,35,3,5,1500,900,300,300
+new-06-037,Salt-Glaze Stoneware Portrait,6,clio_new_styles_sheet_06.png,36,3,6,1800,900,300,300
+new-06-038,Slip-Trailed Ceramic Illustration,6,clio_new_styles_sheet_06.png,37,3,7,2100,900,300,300
+new-06-039,Mishima-Inlay Clay Portrait,6,clio_new_styles_sheet_06.png,38,3,8,2400,900,300,300
+new-06-040,Porcelain-Lithophane Bedroom,6,clio_new_styles_sheet_06.png,39,3,9,2700,900,300,300
+new-06-041,Needle-Felt Fashion Portrait,6,clio_new_styles_sheet_06.png,40,4,0,0,1200,300,300
+new-06-042,Punch-Needle Bedroom Scene,6,clio_new_styles_sheet_06.png,41,4,1,300,1200,300,300
+new-06-043,Trapunto-Relief Figure,6,clio_new_styles_sheet_06.png,42,4,2,600,1200,300,300
+new-06-044,Smocked-Fabric Portrait,6,clio_new_styles_sheet_06.png,43,4,3,900,1200,300,300
+new-06-045,Pleated-Textile Sculpture,6,clio_new_styles_sheet_06.png,44,4,4,1200,1200,300,300
+new-06-046,Shibori-Resist Fashion Art,6,clio_new_styles_sheet_06.png,45,4,5,1500,1200,300,300
+new-06-047,Devore-Velvet Portrait,6,clio_new_styles_sheet_06.png,46,4,6,1800,1200,300,300
+new-06-048,Burnout-Lace Domestic Scene,6,clio_new_styles_sheet_06.png,47,4,7,2100,1200,300,300
+new-06-049,Handwoven-Tapestry Realism,6,clio_new_styles_sheet_06.png,48,4,8,2400,1200,300,300
+new-06-050,Tufted-Wool Glamour Portrait,6,clio_new_styles_sheet_06.png,49,4,9,2700,1200,300,300
+new-06-051,Laser-Cut Plywood Portrait,6,clio_new_styles_sheet_06.png,50,5,0,0,1500,300,300
+new-06-052,Bent-Veneer Fashion Figure,6,clio_new_styles_sheet_06.png,51,5,1,300,1500,300,300
+new-06-053,End-Grain Mosaic Bedroom,6,clio_new_styles_sheet_06.png,52,5,2,600,1500,300,300
+new-06-054,Chip-Carved Basswood Portrait,6,clio_new_styles_sheet_06.png,53,5,3,900,1500,300,300
+new-06-055,Cork-Marquetry Domestic Art,6,clio_new_styles_sheet_06.png,54,5,4,1200,1500,300,300
+new-06-056,Bamboo-Laminate Figure Study,6,clio_new_styles_sheet_06.png,55,5,5,1500,1500,300,300
+new-06-057,Straw-Marquetry Fashion Portrait,6,clio_new_styles_sheet_06.png,56,5,6,1800,1500,300,300
+new-06-058,Paper-Laminate Sculpture,6,clio_new_styles_sheet_06.png,57,5,7,2100,1500,300,300
+new-06-059,Book-Fold Portrait Relief,6,clio_new_styles_sheet_06.png,58,5,8,2400,1500,300,300
+new-06-060,Cardboard-Architecture Figure,6,clio_new_styles_sheet_06.png,59,5,9,2700,1500,300,300
+new-06-061,Mycelium-Composite Portrait,6,clio_new_styles_sheet_06.png,60,6,0,0,1800,300,300
+new-06-062,Pressed-Seaweed Bedroom Art,6,clio_new_styles_sheet_06.png,61,6,1,300,1800,300,300
+new-06-063,Lichen-Dyed Fashion Figure,6,clio_new_styles_sheet_06.png,62,6,2,600,1800,300,300
+new-06-064,Seed-Mosaic Domestic Portrait,6,clio_new_styles_sheet_06.png,63,6,3,900,1800,300,300
+new-06-065,Beeswax-and-Pollen Sculpture,6,clio_new_styles_sheet_06.png,64,6,4,1200,1800,300,300
+new-06-066,Tree-Bark Relief Portrait,6,clio_new_styles_sheet_06.png,65,6,5,1500,1800,300,300
+new-06-067,Dried-Citrus Translucent Art,6,clio_new_styles_sheet_06.png,66,6,6,1800,1800,300,300
+new-06-068,Leaf-Skeleton Fashion Figure,6,clio_new_styles_sheet_06.png,67,6,7,2100,1800,300,300
+new-06-069,Mushroom-Spore Print Portrait,6,clio_new_styles_sheet_06.png,68,6,8,2400,1800,300,300
+new-06-070,Feather-Mosaic Bedroom Scene,6,clio_new_styles_sheet_06.png,69,6,9,2700,1800,300,300
+new-06-071,Corrugated-Plastic Portrait,6,clio_new_styles_sheet_06.png,70,7,0,0,2100,300,300
+new-06-072,Injection-Molded Pastel Figure,6,clio_new_styles_sheet_06.png,71,7,1,300,2100,300,300
+new-06-073,Vacuum-Formed Bedroom Relief,6,clio_new_styles_sheet_06.png,72,7,2,600,2100,300,300
+new-06-074,Thermoformed-Acrylic Fashion Art,6,clio_new_styles_sheet_06.png,73,7,3,900,2100,300,300
+new-06-075,Silicone-Rubber Portrait Cast,6,clio_new_styles_sheet_06.png,74,7,4,1200,2100,300,300
+new-06-076,Expanded-Foam Domestic Sculpture,6,clio_new_styles_sheet_06.png,75,7,5,1500,2100,300,300
+new-06-077,Bubble-Wrap Lightbox Portrait,6,clio_new_styles_sheet_06.png,76,7,6,1800,2100,300,300
+new-06-078,Fiberglass-Mat Fashion Figure,6,clio_new_styles_sheet_06.png,77,7,7,2100,2100,300,300
+new-06-079,Carbon-Fiber Weave Glamour,6,clio_new_styles_sheet_06.png,78,7,8,2400,2100,300,300
+new-06-080,Recycled-Tire Relief Portrait,6,clio_new_styles_sheet_06.png,79,7,9,2700,2100,300,300
+new-06-081,Pietra-Dura Bedroom Portrait,6,clio_new_styles_sheet_06.png,80,8,0,0,2400,300,300
+new-06-082,Micromosaic Fashion Cameo,6,clio_new_styles_sheet_06.png,81,8,1,300,2400,300,300
+new-06-083,Mother-of-Pearl Intarsia,6,clio_new_styles_sheet_06.png,82,8,2,600,2400,300,300
+new-06-084,Eggshell-Lacquer Portrait,6,clio_new_styles_sheet_06.png,83,8,3,900,2400,300,300
+new-06-085,Seed-Pearl Embroidery Figure,6,clio_new_styles_sheet_06.png,84,8,4,1200,2400,300,300
+new-06-086,Niello-Silver Domestic Scene,6,clio_new_styles_sheet_06.png,85,8,5,1500,2400,300,300
+new-06-087,Granulation-Gold Portrait Art,6,clio_new_styles_sheet_06.png,86,8,6,1800,2400,300,300
+new-06-088,Cloisonne-Wire Modern Figure,6,clio_new_styles_sheet_06.png,87,8,7,2100,2400,300,300
+new-06-089,Champleve-Enamel Bedroom Art,6,clio_new_styles_sheet_06.png,88,8,8,2400,2400,300,300
+new-06-090,Opal-Inlay Fashion Portrait,6,clio_new_styles_sheet_06.png,89,8,9,2700,2400,300,300
+new-06-091,Spun-Sugar Portrait Sculpture,6,clio_new_styles_sheet_06.png,90,9,0,0,2700,300,300
+new-06-092,Isomalt-Glass Fashion Figure,6,clio_new_styles_sheet_06.png,91,9,1,300,2700,300,300
+new-06-093,Marzipan Domestic Portrait,6,clio_new_styles_sheet_06.png,92,9,2,600,2700,300,300
+new-06-094,Wafer-Paper Bedroom Art,6,clio_new_styles_sheet_06.png,93,9,3,900,2700,300,300
+new-06-095,Chocolate-Relief Glamour,6,clio_new_styles_sheet_06.png,94,9,4,1200,2700,300,300
+new-06-096,Royal-Icing Filigree Portrait,6,clio_new_styles_sheet_06.png,95,9,5,1500,2700,300,300
+new-06-097,Gelatin-Flower Fashion Scene,6,clio_new_styles_sheet_06.png,96,9,6,1800,2700,300,300
+new-06-098,Candy-Wrapper Mosaic Figure,6,clio_new_styles_sheet_06.png,97,9,7,2100,2700,300,300
+new-06-099,Rock-Candy Crystal Portrait,6,clio_new_styles_sheet_06.png,98,9,8,2400,2700,300,300
+new-06-100,Edible-Rice-Paper Illustration,6,clio_new_styles_sheet_06.png,99,9,9,2700,2700,300,300
+new-07-001,1920s Department-Store Circular,7,clio_new_styles_sheet_07.png,0,0,0,0,0,300,300
+new-07-002,1930s Mail-Order Fashion Page,7,clio_new_styles_sheet_07.png,1,0,1,300,0,300,300
+new-07-003,1940s Sewing-Pattern Envelope,7,clio_new_styles_sheet_07.png,2,0,2,600,0,300,300
+new-07-004,1950s Beauty-Salon Brochure,7,clio_new_styles_sheet_07.png,3,0,3,900,0,300,300
+new-07-005,1960s Boutique Lookbook,7,clio_new_styles_sheet_07.png,4,0,4,1200,0,300,300
+new-07-006,1970s Cosmetics Catalog,7,clio_new_styles_sheet_07.png,5,0,5,1500,0,300,300
+new-07-007,1980s Department-Store Insert,7,clio_new_styles_sheet_07.png,6,0,6,1800,0,300,300
+new-07-008,1990s Teen-Fashion Mailer,7,clio_new_styles_sheet_07.png,7,0,7,2100,0,300,300
+new-07-009,2000s Fast-Fashion Lookbook,7,clio_new_styles_sheet_07.png,8,0,8,2400,0,300,300
+new-07-010,Contemporary Resale-App Editorial,7,clio_new_styles_sheet_07.png,9,0,9,2700,0,300,300
+new-07-011,Perfume-Carton Illustration,7,clio_new_styles_sheet_07.png,10,1,0,0,300,300,300
+new-07-012,Cosmetics-Compact Package Art,7,clio_new_styles_sheet_07.png,11,1,1,300,300,300,300
+new-07-013,Soap-Wrapper Fashion Graphic,7,clio_new_styles_sheet_07.png,12,1,2,600,300,300,300
+new-07-014,Tea-Tin Portrait Design,7,clio_new_styles_sheet_07.png,13,1,3,900,300,300,300
+new-07-015,Chocolate-Box Portrait Art,7,clio_new_styles_sheet_07.png,14,1,4,1200,300,300,300
+new-07-016,Matchbox-Label Bedroom Scene,7,clio_new_styles_sheet_07.png,15,1,5,1500,300,300,300
+new-07-017,Cigar-Band Fashion Portrait,7,clio_new_styles_sheet_07.png,16,1,6,1800,300,300,300
+new-07-018,Apothecary-Label Modernism,7,clio_new_styles_sheet_07.png,17,1,7,2100,300,300,300
+new-07-019,Vinyl-Toy Box Illustration,7,clio_new_styles_sheet_07.png,18,1,8,2400,300,300,300
+new-07-020,Collector-Doll Package Art,7,clio_new_styles_sheet_07.png,19,1,9,2700,300,300,300
+new-07-021,Airline-Safety-Card Chic,7,clio_new_styles_sheet_07.png,20,2,0,0,600,300,300
+new-07-022,Hotel-Keycard Portrait Design,7,clio_new_styles_sheet_07.png,21,2,1,300,600,300,300
+new-07-023,Museum-Ticket Fashion Graphic,7,clio_new_styles_sheet_07.png,22,2,2,600,600,300,300
+new-07-024,Library-Membership Card Art,7,clio_new_styles_sheet_07.png,23,2,3,900,600,300,300
+new-07-025,Transit-Pass Portrait Design,7,clio_new_styles_sheet_07.png,24,2,4,1200,600,300,300
+new-07-026,Phone-Card Collector Graphic,7,clio_new_styles_sheet_07.png,25,2,5,1500,600,300,300
+new-07-027,Gift-Certificate Glamour,7,clio_new_styles_sheet_07.png,26,2,6,1800,600,300,300
+new-07-028,Warranty-Card Domestic Art,7,clio_new_styles_sheet_07.png,27,2,7,2100,600,300,300
+new-07-029,Luggage-Tag Fashion Portrait,7,clio_new_styles_sheet_07.png,28,2,8,2400,600,300,300
+new-07-030,Coat-Check Ticket Illustration,7,clio_new_styles_sheet_07.png,29,2,9,2700,600,300,300
+new-07-031,Hair-Color Swatchbook Portrait,7,clio_new_styles_sheet_07.png,30,3,0,0,900,300,300
+new-07-032,Fabric-Trend Forecast Page,7,clio_new_styles_sheet_07.png,31,3,1,300,900,300,300
+new-07-033,Wallpaper-Sample Book Art,7,clio_new_styles_sheet_07.png,32,3,2,600,900,300,300
+new-07-034,Paint-Chip Palette Portrait,7,clio_new_styles_sheet_07.png,33,3,3,900,900,300,300
+new-07-035,Material-Library Moodboard,7,clio_new_styles_sheet_07.png,34,3,4,1200,900,300,300
+new-07-036,Cosmetic-Shade Range Graphic,7,clio_new_styles_sheet_07.png,35,3,5,1500,900,300,300
+new-07-037,Eyewear-Catalog Fashion Grid,7,clio_new_styles_sheet_07.png,36,3,6,1800,900,300,300
+new-07-038,Jewelry-Line Sheet Portrait,7,clio_new_styles_sheet_07.png,37,3,7,2100,900,300,300
+new-07-039,Furniture-Tearsheet Glamour,7,clio_new_styles_sheet_07.png,38,3,8,2400,900,300,300
+new-07-040,Lighting-Catalog Domestic Scene,7,clio_new_styles_sheet_07.png,39,3,9,2700,900,300,300
+new-07-041,Risograph Club-Flyer Portrait,7,clio_new_styles_sheet_07.png,40,4,0,0,1200,300,300
+new-07-042,Photocopied Punk Handbill,7,clio_new_styles_sheet_07.png,41,4,1,300,1200,300,300
+new-07-043,Acid-House Party Flyer,7,clio_new_styles_sheet_07.png,42,4,2,600,1200,300,300
+new-07-044,Drum-and-Bass White-Label Art,7,clio_new_styles_sheet_07.png,43,4,3,900,1200,300,300
+new-07-045,Indie-Gig Screenprint Poster,7,clio_new_styles_sheet_07.png,44,4,4,1200,1200,300,300
+new-07-046,Community-Theatre Playbill,7,clio_new_styles_sheet_07.png,45,4,5,1500,1200,300,300
+new-07-047,College-Radio Zine Cover,7,clio_new_styles_sheet_07.png,46,4,6,1800,1200,300,300
+new-07-048,Art-School Open-Studio Poster,7,clio_new_styles_sheet_07.png,47,4,7,2100,1200,300,300
+new-07-049,Warehouse-Sale Fashion Flyer,7,clio_new_styles_sheet_07.png,48,4,8,2400,1200,300,300
+new-07-050,Pop-Up-Shop Announcement Art,7,clio_new_styles_sheet_07.png,49,4,9,2700,1200,300,300
+new-07-051,Instruction-Pictogram Portrait,7,clio_new_styles_sheet_07.png,50,5,0,0,1500,300,300
+new-07-052,Wayfinding-Signage Fashion Art,7,clio_new_styles_sheet_07.png,51,5,1,300,1500,300,300
+new-07-053,Emergency-Procedure Bedroom Graphic,7,clio_new_styles_sheet_07.png,52,5,2,600,1500,300,300
+new-07-054,Assembly-Guide Domestic Portrait,7,clio_new_styles_sheet_07.png,53,5,3,900,1500,300,300
+new-07-055,Museum-Label Diagram Style,7,clio_new_styles_sheet_07.png,54,5,4,1200,1500,300,300
+new-07-056,Product-Spec Sheet Glamour,7,clio_new_styles_sheet_07.png,55,5,5,1500,1500,300,300
+new-07-057,Care-Label Symbol Portrait,7,clio_new_styles_sheet_07.png,56,5,6,1800,1500,300,300
+new-07-058,Pattern-Cutting Instruction Art,7,clio_new_styles_sheet_07.png,57,5,7,2100,1500,300,300
+new-07-059,Color-Separation Proof Look,7,clio_new_styles_sheet_07.png,58,5,8,2400,1500,300,300
+new-07-060,Printer-Calibration Fashion Chart,7,clio_new_styles_sheet_07.png,59,5,9,2700,1500,300,300
+new-07-061,Bias-Cut Fashion Illustration,7,clio_new_styles_sheet_07.png,60,6,0,0,1800,300,300
+new-07-062,Draping-Stand Editorial Art,7,clio_new_styles_sheet_07.png,61,6,1,300,1800,300,300
+new-07-063,Patternmaker-Notch Drawing,7,clio_new_styles_sheet_07.png,62,6,2,600,1800,300,300
+new-07-064,Couture-Beading Design Plate,7,clio_new_styles_sheet_07.png,63,6,3,900,1800,300,300
+new-07-065,Millinery-Sketch Portrait,7,clio_new_styles_sheet_07.png,64,6,4,1200,1800,300,300
+new-07-066,Footwear-Concept Marker Art,7,clio_new_styles_sheet_07.png,65,6,5,1500,1800,300,300
+new-07-067,Knitwear-Stitch-Map Portrait,7,clio_new_styles_sheet_07.png,66,6,6,1800,1800,300,300
+new-07-068,Textile-Repeat Fashion Figure,7,clio_new_styles_sheet_07.png,67,6,7,2100,1800,300,300
+new-07-069,Costume-Bible Character Plate,7,clio_new_styles_sheet_07.png,68,6,8,2400,1800,300,300
+new-07-070,Wardrobe-Continuity Photo Art,7,clio_new_styles_sheet_07.png,69,6,9,2700,1800,300,300
+new-07-071,House-Brand Grocery Illustration,7,clio_new_styles_sheet_07.png,70,7,0,0,2100,300,300
+new-07-072,Generic-Pharmacy Package Chic,7,clio_new_styles_sheet_07.png,71,7,1,300,2100,300,300
+new-07-073,Budget-Airline Magazine Art,7,clio_new_styles_sheet_07.png,72,7,2,600,2100,300,300
+new-07-074,Hotel-Room-Service Menu Portrait,7,clio_new_styles_sheet_07.png,73,7,3,900,2100,300,300
+new-07-075,Shopping-Mall Directory Art,7,clio_new_styles_sheet_07.png,74,7,4,1200,2100,300,300
+new-07-076,Mail-Order Club Catalog Look,7,clio_new_styles_sheet_07.png,75,7,5,1500,2100,300,300
+new-07-077,Subscription-Box Insert Portrait,7,clio_new_styles_sheet_07.png,76,7,6,1800,2100,300,300
+new-07-078,Loyalty-Program Fashion Graphic,7,clio_new_styles_sheet_07.png,77,7,7,2100,2100,300,300
+new-07-079,Seasonal-Window Campaign Art,7,clio_new_styles_sheet_07.png,78,7,8,2400,2100,300,300
+new-07-080,Private-Label Beauty Editorial,7,clio_new_styles_sheet_07.png,79,7,9,2700,2100,300,300
+new-07-081,Editorial-Opening-Spread Portrait,7,clio_new_styles_sheet_07.png,80,8,0,0,2400,300,300
+new-07-082,Magazine-Contents-Page Collage,7,clio_new_styles_sheet_07.png,81,8,1,300,2400,300,300
+new-07-083,Pull-Quote Fashion Illustration,7,clio_new_styles_sheet_07.png,82,8,2,600,2400,300,300
+new-07-084,Longform-Feature Photo Collage,7,clio_new_styles_sheet_07.png,83,8,3,900,2400,300,300
+new-07-085,Advice-Column Bedroom Art,7,clio_new_styles_sheet_07.png,84,8,4,1200,2400,300,300
+new-07-086,Horoscope-Page Portrait Graphic,7,clio_new_styles_sheet_07.png,85,8,5,1500,2400,300,300
+new-07-087,Readers-Letters Illustration,7,clio_new_styles_sheet_07.png,86,8,6,1800,2400,300,300
+new-07-088,Back-Page Fashion Advertorial,7,clio_new_styles_sheet_07.png,87,8,7,2100,2400,300,300
+new-07-089,Sunday-Magazine Cover Art,7,clio_new_styles_sheet_07.png,88,8,8,2400,2400,300,300
+new-07-090,Supplement-Guide Domestic Portrait,7,clio_new_styles_sheet_07.png,89,8,9,2700,2400,300,300
+new-07-091,Brutalist-Grid Fashion Poster,7,clio_new_styles_sheet_07.png,90,9,0,0,2700,300,300
+new-07-092,Soft-Swiss Editorial Portrait,7,clio_new_styles_sheet_07.png,91,9,1,300,2700,300,300
+new-07-093,New-Wave Typography-Free Collage,7,clio_new_styles_sheet_07.png,92,9,2,600,2700,300,300
+new-07-094,Postmodern-Memphis Fashion Art,7,clio_new_styles_sheet_07.png,93,9,3,900,2700,300,300
+new-07-095,Neo-Deco Packaging Portrait,7,clio_new_styles_sheet_07.png,94,9,4,1200,2700,300,300
+new-07-096,Organic-Modern Brand Illustration,7,clio_new_styles_sheet_07.png,95,9,5,1500,2700,300,300
+new-07-097,Luxury-Minimal Product Portrait,7,clio_new_styles_sheet_07.png,96,9,6,1800,2700,300,300
+new-07-098,Maximalist-Bazaar Editorial,7,clio_new_styles_sheet_07.png,97,9,7,2100,2700,300,300
+new-07-099,Quiet-Luxury Lookbook Art,7,clio_new_styles_sheet_07.png,98,9,8,2400,2700,300,300
+new-07-100,Anti-Design Bedroom Graphic,7,clio_new_styles_sheet_07.png,99,9,9,2700,2700,300,300
+new-08-001,Solarpunk Conservatory Portrait,8,clio_new_styles_sheet_08.png,0,0,0,0,0,300,300
+new-08-002,Lunarpunk Bedroom Dream,8,clio_new_styles_sheet_08.png,1,0,1,300,0,300,300
+new-08-003,Tidalpunk Domestic Fantasy,8,clio_new_styles_sheet_08.png,2,0,2,600,0,300,300
+new-08-004,Desertpunk Textile Futurism,8,clio_new_styles_sheet_08.png,3,0,3,900,0,300,300
+new-08-005,Mushroompunk Cozy Interior,8,clio_new_styles_sheet_08.png,4,0,4,1200,0,300,300
+new-08-006,Crystalpunk Fashion Portrait,8,clio_new_styles_sheet_08.png,5,0,5,1500,0,300,300
+new-08-007,Cloudpunk Pastel Metropolis,8,clio_new_styles_sheet_08.png,6,0,6,1800,0,300,300
+new-08-008,Bioceramic Future Domesticity,8,clio_new_styles_sheet_08.png,7,0,7,2100,0,300,300
+new-08-009,Kelp-Forest Couture Fantasy,8,clio_new_styles_sheet_08.png,8,0,8,2400,0,300,300
+new-08-010,Seed-Library Utopian Art,8,clio_new_styles_sheet_08.png,9,0,9,2700,0,300,300
+new-08-011,Analog-Space-Age Romanticism,8,clio_new_styles_sheet_08.png,10,1,0,0,300,300,300
+new-08-012,Cassette-Futurist Bedroom,8,clio_new_styles_sheet_08.png,11,1,1,300,300,300,300
+new-08-013,Vacuum-Tube Starship Glamour,8,clio_new_styles_sheet_08.png,12,1,2,600,300,300,300
+new-08-014,Orbital-Habitat Domestic Scene,8,clio_new_styles_sheet_08.png,13,1,3,900,300,300,300
+new-08-015,Deep-Space Botanist Portrait,8,clio_new_styles_sheet_08.png,14,1,4,1200,300,300,300
+new-08-016,Generation-Ship Cabin Fashion,8,clio_new_styles_sheet_08.png,15,1,5,1500,300,300,300
+new-08-017,Exoplanet Motel Aesthetic,8,clio_new_styles_sheet_08.png,16,1,6,1800,300,300,300
+new-08-018,Terraforming-Camp Illustration,8,clio_new_styles_sheet_08.png,17,1,7,2100,300,300,300
+new-08-019,Asteroid-Mining Catalog Art,8,clio_new_styles_sheet_08.png,18,1,8,2400,300,300,300
+new-08-020,Zero-Gravity Boudoir Fantasy,8,clio_new_styles_sheet_08.png,19,1,9,2700,300,300,300
+new-08-021,Botanical-Gothic Bedroom,8,clio_new_styles_sheet_08.png,20,2,0,0,600,300,300
+new-08-022,Domestic-Folk-Horror Portrait,8,clio_new_styles_sheet_08.png,21,2,1,300,600,300,300
+new-08-023,Candlelit-Cosmic-Horror Chic,8,clio_new_styles_sheet_08.png,22,2,2,600,600,300,300
+new-08-024,Haunted-Dollhouse Editorial,8,clio_new_styles_sheet_08.png,23,2,3,900,600,300,300
+new-08-025,Sunlit-Haunting Romanticism,8,clio_new_styles_sheet_08.png,24,2,4,1200,600,300,300
+new-08-026,Velvet-Occult Fashion Art,8,clio_new_styles_sheet_08.png,25,2,5,1500,600,300,300
+new-08-027,Archive-Horror Document Style,8,clio_new_styles_sheet_08.png,26,2,6,1800,600,300,300
+new-08-028,Liminal-Bedroom Apparition,8,clio_new_styles_sheet_08.png,27,2,7,2100,600,300,300
+new-08-029,Pastel-Body-Horror Surrealism,8,clio_new_styles_sheet_08.png,28,2,8,2400,600,300,300
+new-08-030,Gilded-Decadence Horror,8,clio_new_styles_sheet_08.png,29,2,9,2700,600,300,300
+new-08-031,Cozy-Alchemist Workshop,8,clio_new_styles_sheet_08.png,30,3,0,0,900,300,300
+new-08-032,Fairy-Tale Laundromat Art,8,clio_new_styles_sheet_08.png,31,3,1,300,900,300,300
+new-08-033,Miniature-World Bedroom,8,clio_new_styles_sheet_08.png,32,3,2,600,900,300,300
+new-08-034,Toy-Theatre Fantasy Portrait,8,clio_new_styles_sheet_08.png,33,3,3,900,900,300,300
+new-08-035,Cloud-Castle Domesticity,8,clio_new_styles_sheet_08.png,34,3,4,1200,900,300,300
+new-08-036,Moonlit-Bakery Magic,8,clio_new_styles_sheet_08.png,35,3,5,1500,900,300,300
+new-08-037,Secret-Garden Fashion Scene,8,clio_new_styles_sheet_08.png,36,3,6,1800,900,300,300
+new-08-038,Tea-Shop Witch Aesthetic,8,clio_new_styles_sheet_08.png,37,3,7,2100,900,300,300
+new-08-039,Pocket-Dimension Bedroom,8,clio_new_styles_sheet_08.png,38,3,8,2400,900,300,300
+new-08-040,Storybook-Observatory Portrait,8,clio_new_styles_sheet_08.png,39,3,9,2700,900,300,300
+new-08-041,Retrofuture-Renaissance Court,8,clio_new_styles_sheet_08.png,40,4,0,0,1200,300,300
+new-08-042,Dieselpunk Fashion Salon,8,clio_new_styles_sheet_08.png,41,4,1,300,1200,300,300
+new-08-043,Clockwork-Modernist Bedroom,8,clio_new_styles_sheet_08.png,42,4,2,600,1200,300,300
+new-08-044,Atomic-Age Medievalism,8,clio_new_styles_sheet_08.png,43,4,3,900,1200,300,300
+new-08-045,Victorian-Space-Program Art,8,clio_new_styles_sheet_08.png,44,4,4,1200,1200,300,300
+new-08-046,Baroque-Cybernetics Portrait,8,clio_new_styles_sheet_08.png,45,4,5,1500,1200,300,300
+new-08-047,Edwardian-Robot Domesticity,8,clio_new_styles_sheet_08.png,46,4,6,1800,1200,300,300
+new-08-048,Art-Deco Time-Travel Chic,8,clio_new_styles_sheet_08.png,47,4,7,2100,1200,300,300
+new-08-049,Bronze-Age Futurism,8,clio_new_styles_sheet_08.png,48,4,8,2400,1200,300,300
+new-08-050,Silk-Road Space-Opera,8,clio_new_styles_sheet_08.png,49,4,9,2700,1200,300,300
+new-08-051,Flooded-City Bedroom Portrait,8,clio_new_styles_sheet_08.png,50,5,0,0,1500,300,300
+new-08-052,Dust-Bowl Fantasy Editorial,8,clio_new_styles_sheet_08.png,51,5,1,300,1500,300,300
+new-08-053,Glacier-Palace Fashion Art,8,clio_new_styles_sheet_08.png,52,5,2,600,1500,300,300
+new-08-054,Volcanic-Island Domestic Scene,8,clio_new_styles_sheet_08.png,53,5,3,900,1500,300,300
+new-08-055,Monsoon-Noir Portrait,8,clio_new_styles_sheet_08.png,54,5,4,1200,1500,300,300
+new-08-056,Aurora-Desert Surrealism,8,clio_new_styles_sheet_08.png,55,5,5,1500,1500,300,300
+new-08-057,Coral-Ruin Bedroom Fantasy,8,clio_new_styles_sheet_08.png,56,5,6,1800,1500,300,300
+new-08-058,Salt-Flat Mirage Fashion,8,clio_new_styles_sheet_08.png,57,5,7,2100,1500,300,300
+new-08-059,Fog-Forest Domestic Myth,8,clio_new_styles_sheet_08.png,58,5,8,2400,1500,300,300
+new-08-060,Storm-Glass Portrait World,8,clio_new_styles_sheet_08.png,59,5,9,2700,1500,300,300
+new-08-061,Night-Market Dream Portrait,8,clio_new_styles_sheet_08.png,60,6,0,0,1800,300,300
+new-08-062,Subway-Folklore Fashion Art,8,clio_new_styles_sheet_08.png,61,6,1,300,1800,300,300
+new-08-063,Rooftop-Garden Urban Myth,8,clio_new_styles_sheet_08.png,62,6,2,600,1800,300,300
+new-08-064,Corner-Store Magical Realism,8,clio_new_styles_sheet_08.png,63,6,3,900,1800,300,300
+new-08-065,Apartment-Block Fairytale,8,clio_new_styles_sheet_08.png,64,6,4,1200,1800,300,300
+new-08-066,Neon-Laundromat Romanticism,8,clio_new_styles_sheet_08.png,65,6,5,1500,1800,300,300
+new-08-067,Parking-Garage Fantasy Chic,8,clio_new_styles_sheet_08.png,66,6,6,1800,1800,300,300
+new-08-068,Late-Night-Diner Dream Art,8,clio_new_styles_sheet_08.png,67,6,7,2100,1800,300,300
+new-08-069,Mall-After-Hours Surrealism,8,clio_new_styles_sheet_08.png,68,6,8,2400,1800,300,300
+new-08-070,Bus-Terminal Mythic Portrait,8,clio_new_styles_sheet_08.png,69,6,9,2700,1800,300,300
+new-08-071,Tarot-Free Symbolist Portrait,8,clio_new_styles_sheet_08.png,70,7,0,0,2100,300,300
+new-08-072,Planetary-Altar Bedroom,8,clio_new_styles_sheet_08.png,71,7,1,300,2100,300,300
+new-08-073,Seasonal-Ritual Fashion Art,8,clio_new_styles_sheet_08.png,72,7,2,600,2100,300,300
+new-08-074,Constellation-Folk Icon,8,clio_new_styles_sheet_08.png,73,7,3,900,2100,300,300
+new-08-075,Herbal-Oracle Domestic Scene,8,clio_new_styles_sheet_08.png,74,7,4,1200,2100,300,300
+new-08-076,Dream-Calendar Portrait,8,clio_new_styles_sheet_08.png,75,7,5,1500,2100,300,300
+new-08-077,Memory-Shrine Editorial,8,clio_new_styles_sheet_08.png,76,7,6,1800,2100,300,300
+new-08-078,Threshold-Ritual Illustration,8,clio_new_styles_sheet_08.png,77,7,7,2100,2100,300,300
+new-08-079,Moon-Phase Bedroom Art,8,clio_new_styles_sheet_08.png,78,7,8,2400,2100,300,300
+new-08-080,Weather-Omens Fashion Portrait,8,clio_new_styles_sheet_08.png,79,7,9,2700,2100,300,300
+new-08-081,Impossible-Staircase Bedroom,8,clio_new_styles_sheet_08.png,80,8,0,0,2400,300,300
+new-08-082,Soft-Geometry Dream Portrait,8,clio_new_styles_sheet_08.png,81,8,1,300,2400,300,300
+new-08-083,Reverse-Shadow Fashion Art,8,clio_new_styles_sheet_08.png,82,8,2,600,2400,300,300
+new-08-084,Floating-Furniture Domestic Surrealism,8,clio_new_styles_sheet_08.png,83,8,3,900,2400,300,300
+new-08-085,Endless-Curtain-Room Dream,8,clio_new_styles_sheet_08.png,84,8,4,1200,2400,300,300
+new-08-086,Tiny-Door Magical Portrait,8,clio_new_styles_sheet_08.png,85,8,5,1500,2400,300,300
+new-08-087,Liquid-Wallpaper Bedroom,8,clio_new_styles_sheet_08.png,86,8,6,1800,2400,300,300
+new-08-088,Folded-Horizon Fashion Scene,8,clio_new_styles_sheet_08.png,87,8,7,2100,2400,300,300
+new-08-089,Echoing-Mirror Domestic Art,8,clio_new_styles_sheet_08.png,88,8,8,2400,2400,300,300
+new-08-090,Gravity-Slip Portrait,8,clio_new_styles_sheet_08.png,89,8,9,2700,2400,300,300
+new-08-091,Romantic-Mecha Domesticity,8,clio_new_styles_sheet_08.png,90,9,0,0,2700,300,300
+new-08-092,Cottagecore Space-Opera,8,clio_new_styles_sheet_08.png,91,9,1,300,2700,300,300
+new-08-093,Noir-Fairytale Bedroom,8,clio_new_styles_sheet_08.png,92,9,2,600,2700,300,300
+new-08-094,Pastel-Wasteland Fashion,8,clio_new_styles_sheet_08.png,93,9,3,900,2700,300,300
+new-08-095,Gothic-Solarpunk Portrait,8,clio_new_styles_sheet_08.png,94,9,4,1200,2700,300,300
+new-08-096,Mythic-Corporate Office Art,8,clio_new_styles_sheet_08.png,95,9,5,1500,2700,300,300
+new-08-097,Oceanic-Cyber-Folk Portrait,8,clio_new_styles_sheet_08.png,96,9,6,1800,2700,300,300
+new-08-098,Sacred-Geometry Streetwear,8,clio_new_styles_sheet_08.png,97,9,7,2100,2700,300,300
+new-08-099,Antique-Android Romanticism,8,clio_new_styles_sheet_08.png,98,9,8,2400,2700,300,300
+new-08-100,Domestic-Kaiju Quiet Moment,8,clio_new_styles_sheet_08.png,99,9,9,2700,2700,300,300
+new-09-001,1980s Computer-Magazine Cover,9,clio_new_styles_sheet_09.png,0,0,0,0,0,300,300
+new-09-002,1990s Shareware Box Art,9,clio_new_styles_sheet_09.png,1,0,1,300,0,300,300
+new-09-003,Dial-Up Homepage Portrait,9,clio_new_styles_sheet_09.png,2,0,2,600,0,300,300
+new-09-004,GeoCities Fanpage Glamour,9,clio_new_styles_sheet_09.png,3,0,3,900,0,300,300
+new-09-005,Webring Banner Collage,9,clio_new_styles_sheet_09.png,4,0,4,1200,0,300,300
+new-09-006,Early-Web Portal Illustration,9,clio_new_styles_sheet_09.png,5,0,5,1500,0,300,300
+new-09-007,Browser-Toolbar Maximalism,9,clio_new_styles_sheet_09.png,6,0,6,1800,0,300,300
+new-09-008,Desktop-Widget Bedroom Art,9,clio_new_styles_sheet_09.png,7,0,7,2100,0,300,300
+new-09-009,Screensaver-Dream Fashion,9,clio_new_styles_sheet_09.png,8,0,8,2400,0,300,300
+new-09-010,Pixel-Font-Free Web Nostalgia,9,clio_new_styles_sheet_09.png,9,0,9,2700,0,300,300
+new-09-011,Handheld-LCD Game Portrait,9,clio_new_styles_sheet_09.png,10,1,0,0,300,300,300
+new-09-012,16-Bit Dating-Game Room,9,clio_new_styles_sheet_09.png,11,1,1,300,300,300,300
+new-09-013,32-Bit Pre-Rendered Bedroom,9,clio_new_styles_sheet_09.png,12,1,2,600,300,300,300
+new-09-014,Arcade-Attract-Mode Fashion,9,clio_new_styles_sheet_09.png,13,1,3,900,300,300,300
+new-09-015,Strategy-Guide Character Page,9,clio_new_styles_sheet_09.png,14,1,4,1200,300,300,300
+new-09-016,Game-Manual Watercolor Art,9,clio_new_styles_sheet_09.png,15,1,5,1500,300,300,300
+new-09-017,Memory-Card Icon Portrait,9,clio_new_styles_sheet_09.png,16,1,6,1800,300,300,300
+new-09-018,Demo-Disc Menu Aesthetic,9,clio_new_styles_sheet_09.png,17,1,7,2100,300,300,300
+new-09-019,Cheat-Book Magazine Illustration,9,clio_new_styles_sheet_09.png,18,1,8,2400,300,300,300
+new-09-020,Virtual-Pet Packaging Portrait,9,clio_new_styles_sheet_09.png,19,1,9,2700,300,300,300
+new-09-021,Pager-Era Fashion Editorial,9,clio_new_styles_sheet_09.png,20,2,0,0,600,300,300
+new-09-022,Flip-Phone Camera Glamour,9,clio_new_styles_sheet_09.png,21,2,1,300,600,300,300
+new-09-023,Polyphonic-Ringtone Pop Art,9,clio_new_styles_sheet_09.png,22,2,2,600,600,300,300
+new-09-024,Infrared-File-Transfer Chic,9,clio_new_styles_sheet_09.png,23,2,3,900,600,300,300
+new-09-025,SMS-Chatroom Portrait,9,clio_new_styles_sheet_09.png,24,2,4,1200,600,300,300
+new-09-026,Cybercafe Bedroom Fantasy,9,clio_new_styles_sheet_09.png,25,2,5,1500,600,300,300
+new-09-027,Internet-Cafe Webcam Art,9,clio_new_styles_sheet_09.png,26,2,6,1800,600,300,300
+new-09-028,Phonebook-Directory Nostalgia,9,clio_new_styles_sheet_09.png,27,2,7,2100,600,300,300
+new-09-029,Answering-Machine Domestic Scene,9,clio_new_styles_sheet_09.png,28,2,8,2400,600,300,300
+new-09-030,Cordless-Phone Catalog Portrait,9,clio_new_styles_sheet_09.png,29,2,9,2700,600,300,300
+new-09-031,Mixtape-Insert Illustration,9,clio_new_styles_sheet_09.png,30,3,0,0,900,300,300
+new-09-032,Cassette-J-Card Bedroom Art,9,clio_new_styles_sheet_09.png,31,3,1,300,900,300,300
+new-09-033,MiniDisc Sleeve Portrait,9,clio_new_styles_sheet_09.png,32,3,2,600,900,300,300
+new-09-034,CD-R Marker-Doodle Glamour,9,clio_new_styles_sheet_09.png,33,3,3,900,900,300,300
+new-09-035,Portable-Player Catalog Look,9,clio_new_styles_sheet_09.png,34,3,4,1200,900,300,300
+new-09-036,Late-Night-Radio Portrait,9,clio_new_styles_sheet_09.png,35,3,5,1500,900,300,300
+new-09-037,College-Radio Playlist Art,9,clio_new_styles_sheet_09.png,36,3,6,1800,900,300,300
+new-09-038,Record-Store Listening Booth,9,clio_new_styles_sheet_09.png,37,3,7,2100,900,300,300
+new-09-039,Karaoke-Laserdisc Fashion,9,clio_new_styles_sheet_09.png,38,3,8,2400,900,300,300
+new-09-040,Music-Video Countdown Graphic,9,clio_new_styles_sheet_09.png,39,3,9,2700,900,300,300
+new-09-041,Teen-Magazine Quiz-Page Art,9,clio_new_styles_sheet_09.png,40,4,0,0,1200,300,300
+new-09-042,School-Planner Sticker Portrait,9,clio_new_styles_sheet_09.png,41,4,1,300,1200,300,300
+new-09-043,Pen-Pal Letter Illustration,9,clio_new_styles_sheet_09.png,42,4,2,600,1200,300,300
+new-09-044,Friendship-Bracelet Catalog Look,9,clio_new_styles_sheet_09.png,43,4,3,900,1200,300,300
+new-09-045,Sleepover-Guide Bedroom Art,9,clio_new_styles_sheet_09.png,44,4,4,1200,1200,300,300
+new-09-046,Locker-Collage Fashion Portrait,9,clio_new_styles_sheet_09.png,45,4,5,1500,1200,300,300
+new-09-047,Photo-Booth Strip Scrapbook,9,clio_new_styles_sheet_09.png,46,4,6,1800,1200,300,300
+new-09-048,Autograph-Book Domestic Art,9,clio_new_styles_sheet_09.png,47,4,7,2100,1200,300,300
+new-09-049,Sticker-Album Glamour,9,clio_new_styles_sheet_09.png,48,4,8,2400,1200,300,300
+new-09-050,Mall-Food-Court Teen Editorial,9,clio_new_styles_sheet_09.png,49,4,9,2700,1200,300,300
+new-09-051,Public-Library CD-ROM Art,9,clio_new_styles_sheet_09.png,50,5,0,0,1500,300,300
+new-09-052,Encyclopedia-Disc Interface Look,9,clio_new_styles_sheet_09.png,51,5,1,300,1500,300,300
+new-09-053,Educational-Software Bedroom,9,clio_new_styles_sheet_09.png,52,5,2,600,1500,300,300
+new-09-054,Language-Lab Fashion Portrait,9,clio_new_styles_sheet_09.png,53,5,3,900,1500,300,300
+new-09-055,Science-Fair Display-Board Art,9,clio_new_styles_sheet_09.png,54,5,4,1200,1500,300,300
+new-09-056,Overhead-Projector Classroom Chic,9,clio_new_styles_sheet_09.png,55,5,5,1500,1500,300,300
+new-09-057,Microfiche-Reader Portrait,9,clio_new_styles_sheet_09.png,56,5,6,1800,1500,300,300
+new-09-058,School-AV-Cart Nostalgia,9,clio_new_styles_sheet_09.png,57,5,7,2100,1500,300,300
+new-09-059,Book-Fair Catalog Illustration,9,clio_new_styles_sheet_09.png,58,5,8,2400,1500,300,300
+new-09-060,Museum-Audio-Guide Portrait,9,clio_new_styles_sheet_09.png,59,5,9,2700,1500,300,300
+new-09-061,Local-TV Weather-Bumper Look,9,clio_new_styles_sheet_09.png,60,6,0,0,1800,300,300
+new-09-062,Cable-Access Craft-Show Art,9,clio_new_styles_sheet_09.png,61,6,1,300,1800,300,300
+new-09-063,Telethon-Studio Portrait,9,clio_new_styles_sheet_09.png,62,6,2,600,1800,300,300
+new-09-064,Shopping-Channel Product Glamour,9,clio_new_styles_sheet_09.png,63,6,3,900,1800,300,300
+new-09-065,Breakfast-TV Domestic Scene,9,clio_new_styles_sheet_09.png,64,6,4,1200,1800,300,300
+new-09-066,Late-Night-Call-In Graphic,9,clio_new_styles_sheet_09.png,65,6,5,1500,1800,300,300
+new-09-067,Regional-News Promo Portrait,9,clio_new_styles_sheet_09.png,66,6,6,1800,1800,300,300
+new-09-068,Station-Ident Fashion Art,9,clio_new_styles_sheet_09.png,67,6,7,2100,1800,300,300
+new-09-069,Broadcast-Test-Card Glamour,9,clio_new_styles_sheet_09.png,68,6,8,2400,1800,300,300
+new-09-070,Closed-Caption Era Portrait,9,clio_new_styles_sheet_09.png,69,6,9,2700,1800,300,300
+new-09-071,Video-Rental Membership Art,9,clio_new_styles_sheet_09.png,70,7,0,0,2100,300,300
+new-09-072,Rental-Case Insert Portrait,9,clio_new_styles_sheet_09.png,71,7,1,300,2100,300,300
+new-09-073,Rewind-Sticker Graphic Look,9,clio_new_styles_sheet_09.png,72,7,2,600,2100,300,300
+new-09-074,Saturday-Matinee VHS Cover,9,clio_new_styles_sheet_09.png,73,7,3,900,2100,300,300
+new-09-075,Direct-to-Video Romance Art,9,clio_new_styles_sheet_09.png,74,7,4,1200,2100,300,300
+new-09-076,Camcorder-Date-Stamp Bedroom,9,clio_new_styles_sheet_09.png,75,7,5,1500,2100,300,300
+new-09-077,Family-Video Title-Card Look,9,clio_new_styles_sheet_09.png,76,7,6,1800,2100,300,300
+new-09-078,Vacation-Tape Fashion Portrait,9,clio_new_styles_sheet_09.png,77,7,7,2100,2100,300,300
+new-09-079,Wedding-Video Soft-Edit Art,9,clio_new_styles_sheet_09.png,78,7,8,2400,2100,300,300
+new-09-080,Graduation-Montage Nostalgia,9,clio_new_styles_sheet_09.png,79,7,9,2700,2100,300,300
+new-09-081,Bubblegum-Wrapper Character Art,9,clio_new_styles_sheet_09.png,80,8,0,0,2400,300,300
+new-09-082,Cereal-Prize Catalog Portrait,9,clio_new_styles_sheet_09.png,81,8,1,300,2400,300,300
+new-09-083,Toy-Catalog Holiday Glamour,9,clio_new_styles_sheet_09.png,82,8,2,600,2400,300,300
+new-09-084,Sticker-Vending-Machine Art,9,clio_new_styles_sheet_09.png,83,8,3,900,2400,300,300
+new-09-085,Capsule-Toy Insert Portrait,9,clio_new_styles_sheet_09.png,84,8,4,1200,2400,300,300
+new-09-086,Trading-Card Binder Aesthetic,9,clio_new_styles_sheet_09.png,85,8,5,1500,2400,300,300
+new-09-087,Collectible-Pin Display Art,9,clio_new_styles_sheet_09.png,86,8,6,1800,2400,300,300
+new-09-088,Lunchbox-Graphic Fashion,9,clio_new_styles_sheet_09.png,87,8,7,2100,2400,300,300
+new-09-089,Pencil-Case Character Portrait,9,clio_new_styles_sheet_09.png,88,8,8,2400,2400,300,300
+new-09-090,Novelty-Keychain Catalog Look,9,clio_new_styles_sheet_09.png,89,8,9,2700,2400,300,300
+new-09-091,Indie-Zine Bedroom Portrait,9,clio_new_styles_sheet_09.png,90,9,0,0,2700,300,300
+new-09-092,Skate-Shop Catalog Art,9,clio_new_styles_sheet_09.png,91,9,1,300,2700,300,300
+new-09-093,Record-Label Mailer Glamour,9,clio_new_styles_sheet_09.png,92,9,2,600,2700,300,300
+new-09-094,Street-Team Flyer Portrait,9,clio_new_styles_sheet_09.png,93,9,3,900,2700,300,300
+new-09-095,Band-Merch Order-Form Look,9,clio_new_styles_sheet_09.png,94,9,4,1200,2700,300,300
+new-09-096,College-Campus Handbill Art,9,clio_new_styles_sheet_09.png,95,9,5,1500,2700,300,300
+new-09-097,Coffeehouse Poetry-Poster Chic,9,clio_new_styles_sheet_09.png,96,9,6,1800,2700,300,300
+new-09-098,Thrift-Store Tag Collage,9,clio_new_styles_sheet_09.png,97,9,7,2100,2700,300,300
+new-09-099,DIY-Fashion Lookbook,9,clio_new_styles_sheet_09.png,98,9,8,2400,2700,300,300
+new-09-100,Community-Radio Fundraiser Art,9,clio_new_styles_sheet_09.png,99,9,9,2700,2700,300,300
+new-10-001,Dark-Field Microscopy Portrait,10,clio_new_styles_sheet_10.png,0,0,0,0,0,300,300
+new-10-002,Phase-Contrast Cellular Glamour,10,clio_new_styles_sheet_10.png,1,0,1,300,0,300,300
+new-10-003,Differential-Interference Portrait,10,clio_new_styles_sheet_10.png,2,0,2,600,0,300,300
+new-10-004,Confocal-Layer Bedroom Image,10,clio_new_styles_sheet_10.png,3,0,3,900,0,300,300
+new-10-005,Two-Photon Fluorescence Fashion,10,clio_new_styles_sheet_10.png,4,0,4,1200,0,300,300
+new-10-006,Scanning-Electron Textile Portrait,10,clio_new_styles_sheet_10.png,5,0,5,1500,0,300,300
+new-10-007,Transmission-Electron Domestic Art,10,clio_new_styles_sheet_10.png,6,0,6,1800,0,300,300
+new-10-008,Atomic-Force Surface Portrait,10,clio_new_styles_sheet_10.png,7,0,7,2100,0,300,300
+new-10-009,Polarized-Mineral Thin-Section Look,10,clio_new_styles_sheet_10.png,8,0,8,2400,0,300,300
+new-10-010,Petrographic-Crossed-Nicols Fashion,10,clio_new_styles_sheet_10.png,9,0,9,2700,0,300,300
+new-10-011,Radio-Telescope Intensity Portrait,10,clio_new_styles_sheet_10.png,10,1,0,0,300,300,300
+new-10-012,Pulsar-Timing Bedroom Graphic,10,clio_new_styles_sheet_10.png,11,1,1,300,300,300,300
+new-10-013,Spectrograph Emission-Line Glamour,10,clio_new_styles_sheet_10.png,12,1,2,600,300,300,300
+new-10-014,Solar-Coronagraph Fashion Art,10,clio_new_styles_sheet_10.png,13,1,3,900,300,300,300
+new-10-015,Star-Trail Domestic Portrait,10,clio_new_styles_sheet_10.png,14,1,4,1200,300,300,300
+new-10-016,Adaptive-Optics Portrait,10,clio_new_styles_sheet_10.png,15,1,5,1500,300,300,300
+new-10-017,Gravitational-Lensing Room Art,10,clio_new_styles_sheet_10.png,16,1,6,1800,300,300,300
+new-10-018,Cosmic-Microwave Map Fashion,10,clio_new_styles_sheet_10.png,17,1,7,2100,300,300,300
+new-10-019,Exoplanet-Transit Lightcurve Portrait,10,clio_new_styles_sheet_10.png,18,1,8,2400,300,300,300
+new-10-020,Auroral-Allsky Camera Look,10,clio_new_styles_sheet_10.png,19,1,9,2700,300,300,300
+new-10-021,Ultrasound-Speckle Fashion Portrait,10,clio_new_styles_sheet_10.png,20,2,0,0,600,300,300
+new-10-022,MRI-Slice Collage Bedroom,10,clio_new_styles_sheet_10.png,21,2,1,300,600,300,300
+new-10-023,CT-Volume-Render Glamour,10,clio_new_styles_sheet_10.png,22,2,2,600,600,300,300
+new-10-024,PET-Scan False-Color Portrait,10,clio_new_styles_sheet_10.png,23,2,3,900,600,300,300
+new-10-025,Angiography-Linework Fashion,10,clio_new_styles_sheet_10.png,24,2,4,1200,600,300,300
+new-10-026,Electrocardiogram-Free Biofield Art,10,clio_new_styles_sheet_10.png,25,2,5,1500,600,300,300
+new-10-027,Electroencephalography Topomap Look,10,clio_new_styles_sheet_10.png,26,2,6,1800,600,300,300
+new-10-028,Ophthalmoscope Retinal Portrait,10,clio_new_styles_sheet_10.png,27,2,7,2100,600,300,300
+new-10-029,Endoscope Fiber-Bundle Aesthetic,10,clio_new_styles_sheet_10.png,28,2,8,2400,600,300,300
+new-10-030,Histology-Stain Bedroom Portrait,10,clio_new_styles_sheet_10.png,29,2,9,2700,600,300,300
+new-10-031,Schlieren-Airflow Portrait,10,clio_new_styles_sheet_10.png,30,3,0,0,900,300,300
+new-10-032,Shadowgraph Heat-Plume Fashion,10,clio_new_styles_sheet_10.png,31,3,1,300,900,300,300
+new-10-033,Interferometry-Fringe Bedroom,10,clio_new_styles_sheet_10.png,32,3,2,600,900,300,300
+new-10-034,Holographic-Plate Portrait,10,clio_new_styles_sheet_10.png,33,3,3,900,900,300,300
+new-10-035,Speckle-Pattern Laser Art,10,clio_new_styles_sheet_10.png,34,3,4,1200,900,300,300
+new-10-036,Moiré-Deflectometry Glamour,10,clio_new_styles_sheet_10.png,35,3,5,1500,900,300,300
+new-10-037,Particle-Image-Velocimetry Portrait,10,clio_new_styles_sheet_10.png,36,3,6,1800,900,300,300
+new-10-038,Flow-Visualization Dye Art,10,clio_new_styles_sheet_10.png,37,3,7,2100,900,300,300
+new-10-039,Wind-Tunnel Smoke Fashion,10,clio_new_styles_sheet_10.png,38,3,8,2400,900,300,300
+new-10-040,Fluid-Caustic Domestic Scene,10,clio_new_styles_sheet_10.png,39,3,9,2700,900,300,300
+new-10-041,Chromatography-Paper Portrait,10,clio_new_styles_sheet_10.png,40,4,0,0,1200,300,300
+new-10-042,Electrophoresis-Gel Glamour,10,clio_new_styles_sheet_10.png,41,4,1,300,1200,300,300
+new-10-043,Chemical-Indicator Color Field,10,clio_new_styles_sheet_10.png,42,4,2,600,1200,300,300
+new-10-044,Crystallization-Microscope Fashion,10,clio_new_styles_sheet_10.png,43,4,3,900,1200,300,300
+new-10-045,Ferrofluid-Field Portrait,10,clio_new_styles_sheet_10.png,44,4,4,1200,1200,300,300
+new-10-046,Magnetic-Flux Viewer Art,10,clio_new_styles_sheet_10.png,45,4,5,1500,1200,300,300
+new-10-047,Electroluminescent-Panel Bedroom,10,clio_new_styles_sheet_10.png,46,4,6,1800,1200,300,300
+new-10-048,Triboluminescent Fashion Scene,10,clio_new_styles_sheet_10.png,47,4,7,2100,1200,300,300
+new-10-049,Thermochromic Portrait Surface,10,clio_new_styles_sheet_10.png,48,4,8,2400,1200,300,300
+new-10-050,Photochromic Domestic Art,10,clio_new_styles_sheet_10.png,49,4,9,2700,1200,300,300
+new-10-051,Kirlian-Corona Portrait Look,10,clio_new_styles_sheet_10.png,50,5,0,0,1500,300,300
+new-10-052,Lichtenberg-Figure Fashion Art,10,clio_new_styles_sheet_10.png,51,5,1,300,1500,300,300
+new-10-053,Plasma-Globe Bedroom Portrait,10,clio_new_styles_sheet_10.png,52,5,2,600,1500,300,300
+new-10-054,Tesla-Coil Long-Exposure Glamour,10,clio_new_styles_sheet_10.png,53,5,3,900,1500,300,300
+new-10-055,Electrostatic-Dust Figure,10,clio_new_styles_sheet_10.png,54,5,4,1200,1500,300,300
+new-10-056,Cathode-Ray Phosphor Portrait,10,clio_new_styles_sheet_10.png,55,5,5,1500,1500,300,300
+new-10-057,Cloud-Chamber Particle Art,10,clio_new_styles_sheet_10.png,56,5,6,1800,1500,300,300
+new-10-058,Bubble-Chamber Fashion Image,10,clio_new_styles_sheet_10.png,57,5,7,2100,1500,300,300
+new-10-059,Spark-Chamber Domestic Scene,10,clio_new_styles_sheet_10.png,58,5,8,2400,1500,300,300
+new-10-060,Cherenkov-Blue Portrait,10,clio_new_styles_sheet_10.png,59,5,9,2700,1500,300,300
+new-10-061,Solargraph Long-Exposure Bedroom,10,clio_new_styles_sheet_10.png,60,6,0,0,1800,300,300
+new-10-062,Chemigram Fashion Portrait,10,clio_new_styles_sheet_10.png,61,6,1,300,1800,300,300
+new-10-063,Lumen-Print Domestic Art,10,clio_new_styles_sheet_10.png,62,6,2,600,1800,300,300
+new-10-064,Anthotype Botanical Glamour,10,clio_new_styles_sheet_10.png,63,6,3,900,1800,300,300
+new-10-065,Chlorophyll-Print Portrait,10,clio_new_styles_sheet_10.png,64,6,4,1200,1800,300,300
+new-10-066,Cyan-Lumen Hybrid Image,10,clio_new_styles_sheet_10.png,65,6,5,1500,1800,300,300
+new-10-067,Wet-Plate Solarization Art,10,clio_new_styles_sheet_10.png,66,6,6,1800,1800,300,300
+new-10-068,Photogram Object-Shadow Portrait,10,clio_new_styles_sheet_10.png,67,6,7,2100,1800,300,300
+new-10-069,Liquid-Emulsion Bedroom Photo,10,clio_new_styles_sheet_10.png,68,6,8,2400,1800,300,300
+new-10-070,Emulsion-Lift Fashion Collage,10,clio_new_styles_sheet_10.png,69,6,9,2700,1800,300,300
+new-10-071,Integral-Imaging Portrait,10,clio_new_styles_sheet_10.png,70,7,0,0,2100,300,300
+new-10-072,Lenticular-Flip Fashion Art,10,clio_new_styles_sheet_10.png,71,7,1,300,2100,300,300
+new-10-073,Pepper's-Ghost Bedroom Illusion,10,clio_new_styles_sheet_10.png,72,7,2,600,2100,300,300
+new-10-074,Anamorphic-Mirror Portrait,10,clio_new_styles_sheet_10.png,73,7,3,900,2100,300,300
+new-10-075,Kaleidoscopic-Lens Domestic Art,10,clio_new_styles_sheet_10.png,74,7,4,1200,2100,300,300
+new-10-076,Compound-Eye Fashion Image,10,clio_new_styles_sheet_10.png,75,7,5,1500,2100,300,300
+new-10-077,Light-Field Refocus Portrait,10,clio_new_styles_sheet_10.png,76,7,6,1800,2100,300,300
+new-10-078,Fresnel-Zone-Plate Glamour,10,clio_new_styles_sheet_10.png,77,7,7,2100,2100,300,300
+new-10-079,Diffraction-Grating Bedroom,10,clio_new_styles_sheet_10.png,78,7,8,2400,2100,300,300
+new-10-080,Prism-Spectrum Fashion Portrait,10,clio_new_styles_sheet_10.png,79,7,9,2700,2100,300,300
+new-10-081,Seismic-Tomography Portrait,10,clio_new_styles_sheet_10.png,80,8,0,0,2400,300,300
+new-10-082,Weather-Radar Fashion Map,10,clio_new_styles_sheet_10.png,81,8,1,300,2400,300,300
+new-10-083,Doppler-Wind Bedroom Art,10,clio_new_styles_sheet_10.png,82,8,2,600,2400,300,300
+new-10-084,Sonar-Scan Domestic Portrait,10,clio_new_styles_sheet_10.png,83,8,3,900,2400,300,300
+new-10-085,Bathymetric-Relief Glamour,10,clio_new_styles_sheet_10.png,84,8,4,1200,2400,300,300
+new-10-086,Satellite-NDVI Fashion Image,10,clio_new_styles_sheet_10.png,85,8,5,1500,2400,300,300
+new-10-087,Synthetic-Aperture Radar Portrait,10,clio_new_styles_sheet_10.png,86,8,6,1800,2400,300,300
+new-10-088,LiDAR-Elevation Bedroom,10,clio_new_styles_sheet_10.png,87,8,7,2100,2400,300,300
+new-10-089,Ground-Penetrating-Radar Art,10,clio_new_styles_sheet_10.png,88,8,8,2400,2400,300,300
+new-10-090,Ocean-Current Vector Portrait,10,clio_new_styles_sheet_10.png,89,8,9,2700,2400,300,300
+new-10-091,Material-Failure Fractography,10,clio_new_styles_sheet_10.png,90,9,0,0,2700,300,300
+new-10-092,X-Ray-Crystallography Portrait,10,clio_new_styles_sheet_10.png,91,9,1,300,2700,300,300
+new-10-093,Neutron-Radiography Fashion,10,clio_new_styles_sheet_10.png,92,9,2,600,2700,300,300
+new-10-094,Muon-Tomography Bedroom Art,10,clio_new_styles_sheet_10.png,93,9,3,900,2700,300,300
+new-10-095,Acoustic-Holography Portrait,10,clio_new_styles_sheet_10.png,94,9,4,1200,2700,300,300
+new-10-096,Photoacoustic Imaging Glamour,10,clio_new_styles_sheet_10.png,95,9,5,1500,2700,300,300
+new-10-097,Terahertz-Scan Fashion Image,10,clio_new_styles_sheet_10.png,96,9,6,1800,2700,300,300
+new-10-098,Ellipsometry Color Portrait,10,clio_new_styles_sheet_10.png,97,9,7,2100,2700,300,300
+new-10-099,Raman-Spectrum Domestic Art,10,clio_new_styles_sheet_10.png,98,9,8,2400,2700,300,300
+new-10-100,Mass-Spectrometry Visualization,10,clio_new_styles_sheet_10.png,99,9,9,2700,2700,300,300
